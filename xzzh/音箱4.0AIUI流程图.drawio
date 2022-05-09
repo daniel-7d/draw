@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-09T03:06:46.212Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.54 Safari/537.36" etag="7hAwClvFCoMy1OPBLQQJ" version="18.0.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-09T06:23:51.780Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.54 Safari/537.36" etag="wIh7OgO-lWg1-ad88Y5X" version="18.0.2" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1022" dy="436" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -70,7 +70,7 @@
         <mxCell id="bHCf5uEe8l9tKa_vkYOb-27" value="" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="329.99" y="600" width="255" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="bHCf5uEe8l9tKa_vkYOb-28" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;IOT控制平台&lt;/b&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="bHCf5uEe8l9tKa_vkYOb-28" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;控制中台&lt;/b&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="400" y="610" width="116.25" height="30" as="geometry" />
         </mxCell>
         <mxCell id="bHCf5uEe8l9tKa_vkYOb-29" value="解析后的控制指令" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
@@ -90,6 +90,18 @@
         </mxCell>
         <mxCell id="bHCf5uEe8l9tKa_vkYOb-36" value="客控主机" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="78.75" y="680" width="102.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bHCf5uEe8l9tKa_vkYOb-38" value="php控制中心" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="350" y="640" width="102.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bHCf5uEe8l9tKa_vkYOb-39" value="java控制中心" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="470" y="640" width="102.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bHCf5uEe8l9tKa_vkYOb-40" value="IOT控制中心" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="350" y="680" width="102.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bHCf5uEe8l9tKa_vkYOb-41" value="第三方云服务" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="470" y="680" width="102.5" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
