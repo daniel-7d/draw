@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-07T06:16:57.672Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36" etag="V_36HObQtS580utsu0uB" version="19.0.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-07T06:24:53.317Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36" etag="Sluey5PEDtb4yyipMpfz" version="19.0.1" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1022" dy="436" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -125,16 +125,28 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="FcIwA06-muSB1HyyLoGR-6" value="日志中心" style="rounded=0;whiteSpace=wrap;html=1;fontSize=36;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="310" y="830" width="460" height="60" as="geometry" />
+          <mxGeometry x="310" y="830" width="180" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="FcIwA06-muSB1HyyLoGR-8" value="" style="endArrow=classic;html=1;rounded=0;fontSize=36;entryX=0.225;entryY=-0.011;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.225;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="FcIwA06-muSB1HyyLoGR-0" target="FcIwA06-muSB1HyyLoGR-6">
+        <mxCell id="FcIwA06-muSB1HyyLoGR-8" value="" style="endArrow=classic;html=1;rounded=0;fontSize=36;exitX=0.194;exitY=1.007;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="FcIwA06-muSB1HyyLoGR-0" target="FcIwA06-muSB1HyyLoGR-6">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="414" y="780" as="sourcePoint" />
             <mxPoint x="450" y="770" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="FcIwA06-muSB1HyyLoGR-10" value="数据转发" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="427.49" y="780" width="60" height="30" as="geometry" />
+          <mxGeometry x="414" y="780" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FcIwA06-muSB1HyyLoGR-11" value="费用中心" style="rounded=0;whiteSpace=wrap;html=1;fontSize=36;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="584.99" y="830" width="180" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FcIwA06-muSB1HyyLoGR-12" value="" style="endArrow=classic;html=1;rounded=0;fontSize=36;exitX=0.194;exitY=1.007;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="680" y="774.8299999999999" as="sourcePoint" />
+            <mxPoint x="680.4923001056709" y="830" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FcIwA06-muSB1HyyLoGR-13" value="费用计算" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="690" y="780" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
