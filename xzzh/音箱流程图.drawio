@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-23T01:13:02.523Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="ayEQXv5AiJKQhZm4-plE" version="21.3.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-23T01:42:04.699Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="jvfqcf7qiP8zRy66z41H" version="21.3.2" type="github">
   <diagram name="第 1 页" id="clGc6oRm_TYFhicR0cFy">
     <mxGraphModel dx="1034" dy="438" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -132,6 +132,124 @@
         </mxCell>
         <mxCell id="7qzEv4i43-7ld4pIVWmn-62" value="不存在" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="320" y="950" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7qzEv4i43-7ld4pIVWmn-63" value="控制音箱逻辑" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="50" y="1150" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7qzEv4i43-7ld4pIVWmn-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="7qzEv4i43-7ld4pIVWmn-65" target="7qzEv4i43-7ld4pIVWmn-67">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7qzEv4i43-7ld4pIVWmn-85" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="7qzEv4i43-7ld4pIVWmn-65" target="7qzEv4i43-7ld4pIVWmn-84">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7qzEv4i43-7ld4pIVWmn-95" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="7qzEv4i43-7ld4pIVWmn-65" target="7qzEv4i43-7ld4pIVWmn-88">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7qzEv4i43-7ld4pIVWmn-65" value="音箱" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="95" y="1209" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7qzEv4i43-7ld4pIVWmn-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="7qzEv4i43-7ld4pIVWmn-67">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="155" y="1449" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7qzEv4i43-7ld4pIVWmn-67" value="相关业务逻辑" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="95" y="1339" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7qzEv4i43-7ld4pIVWmn-68" value="有效token、标识符" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="50" y="1300" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7qzEv4i43-7ld4pIVWmn-86" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="7qzEv4i43-7ld4pIVWmn-84" target="7qzEv4i43-7ld4pIVWmn-65">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7qzEv4i43-7ld4pIVWmn-84" value="mqtt连接信息与主题" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="370" y="1209" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7qzEv4i43-7ld4pIVWmn-87" value="通过设备绑定关系数据" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="250" y="1199" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7qzEv4i43-7ld4pIVWmn-92" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="7qzEv4i43-7ld4pIVWmn-88" target="7qzEv4i43-7ld4pIVWmn-65">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7qzEv4i43-7ld4pIVWmn-88" value="mqtt服务器" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="610" y="1209" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7qzEv4i43-7ld4pIVWmn-90" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="7qzEv4i43-7ld4pIVWmn-89" target="7qzEv4i43-7ld4pIVWmn-88">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7qzEv4i43-7ld4pIVWmn-89" value="根据token查出酒店信息，房间信息，音箱位置。设置固定规则的主题，给相关主题发送mqtt消息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="95" y="1450" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="7qzEv4i43-7ld4pIVWmn-91" value="有效token、标识符" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="430" y="1450" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7qzEv4i43-7ld4pIVWmn-94" value="发送控制指令" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="410" y="1160" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7qzEv4i43-7ld4pIVWmn-96" value="连接mqtt服务器" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="324" y="1290" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7qzEv4i43-7ld4pIVWmn-97" value="音箱业务调用逻辑" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="324" y="1590" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7qzEv4i43-7ld4pIVWmn-110" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="7qzEv4i43-7ld4pIVWmn-98" target="7qzEv4i43-7ld4pIVWmn-103">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7qzEv4i43-7ld4pIVWmn-116" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="7qzEv4i43-7ld4pIVWmn-98" target="7qzEv4i43-7ld4pIVWmn-101">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7qzEv4i43-7ld4pIVWmn-98" value="音箱" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="370" y="1630" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="7qzEv4i43-7ld4pIVWmn-117" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="7qzEv4i43-7ld4pIVWmn-101" target="7qzEv4i43-7ld4pIVWmn-98">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="560" y="1760" />
+              <mxPoint x="560" y="1640" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7qzEv4i43-7ld4pIVWmn-121" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="7qzEv4i43-7ld4pIVWmn-101" target="7qzEv4i43-7ld4pIVWmn-120">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7qzEv4i43-7ld4pIVWmn-101" value="iflyos平台" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="370" y="1740" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="7qzEv4i43-7ld4pIVWmn-113" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="7qzEv4i43-7ld4pIVWmn-103" target="7qzEv4i43-7ld4pIVWmn-98">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7qzEv4i43-7ld4pIVWmn-103" value="云存储" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="1630" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="7qzEv4i43-7ld4pIVWmn-104" value="连接讯飞平台" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="420" y="1690" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7qzEv4i43-7ld4pIVWmn-111" value="上传音频文件" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="270" y="1660" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7qzEv4i43-7ld4pIVWmn-114" value="返回地址" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="280" y="1620" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7qzEv4i43-7ld4pIVWmn-119" value="识别文本" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="420" y="1790" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7qzEv4i43-7ld4pIVWmn-123" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="7qzEv4i43-7ld4pIVWmn-120" target="7qzEv4i43-7ld4pIVWmn-122">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7qzEv4i43-7ld4pIVWmn-120" value="业务平台" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="370" y="1830" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="7qzEv4i43-7ld4pIVWmn-124" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="7qzEv4i43-7ld4pIVWmn-122" target="7qzEv4i43-7ld4pIVWmn-120">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7qzEv4i43-7ld4pIVWmn-122" value="NLP服务" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="1830" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="7qzEv4i43-7ld4pIVWmn-125" value="识别文本" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="285" y="1820" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7qzEv4i43-7ld4pIVWmn-126" value="返回技能" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="290" y="1850" width="80" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
