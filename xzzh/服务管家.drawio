@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-04T01:35:51.184Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="GUGrEKXLSBViUQXj0xAY" version="21.6.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-04T01:46:40.374Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="Nm9pPNhHSDtFgyDwrWLD" version="21.6.6" type="github">
   <diagram id="wFE0QG_FPsp0jaGvCLVb" name="Page-1">
     <mxGraphModel dx="1034" dy="432" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -39,6 +39,33 @@
         </mxCell>
         <mxCell id="koKCyErYXFLNH2tnEZ0O-14" value="餐位预约（13）" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="410" y="170" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="koKCyErYXFLNH2tnEZ0O-15" value="后台，待办处理" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="365" y="30" width="105" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="koKCyErYXFLNH2tnEZ0O-16" value="客人小程序&amp;nbsp; &amp;nbsp;我的预约" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="340" y="450" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="koKCyErYXFLNH2tnEZ0O-17" value="续住" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="480" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="koKCyErYXFLNH2tnEZ0O-18" value="退房" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="480" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="koKCyErYXFLNH2tnEZ0O-19" value="叫醒" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="410" y="480" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="koKCyErYXFLNH2tnEZ0O-20" value="开票" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="480" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="koKCyErYXFLNH2tnEZ0O-21" value="接站" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="560" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="koKCyErYXFLNH2tnEZ0O-22" value="送站" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="560" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="koKCyErYXFLNH2tnEZ0O-23" value="餐位" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="410" y="560" width="80" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
