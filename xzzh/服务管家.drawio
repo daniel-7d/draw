@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-14T06:38:20.350Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="nRx5xtz0xBl5ZESa7mz1" version="21.6.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-14T06:47:32.188Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="wzcetle1BwEvg37OWw0W" version="21.6.8" type="github">
   <diagram id="wFE0QG_FPsp0jaGvCLVb" name="Page-1">
     <mxGraphModel dx="1034" dy="432" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -192,6 +192,89 @@
         </mxCell>
         <mxCell id="NhMcl8OpsM3l9a1iTTUJ-54" value="通过、前厅人员在入住机上办取消续住，线下退款" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="490" y="1170" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="NhMcl8OpsM3l9a1iTTUJ-57" value="退房预约" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="205" y="1500" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NhMcl8OpsM3l9a1iTTUJ-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="NhMcl8OpsM3l9a1iTTUJ-59" target="NhMcl8OpsM3l9a1iTTUJ-63">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NhMcl8OpsM3l9a1iTTUJ-59" value="客人小程序选择退房时间" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="175" y="1540" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NhMcl8OpsM3l9a1iTTUJ-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="NhMcl8OpsM3l9a1iTTUJ-63" target="NhMcl8OpsM3l9a1iTTUJ-68">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NhMcl8OpsM3l9a1iTTUJ-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="NhMcl8OpsM3l9a1iTTUJ-63" target="NhMcl8OpsM3l9a1iTTUJ-65">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="355" y="1710" />
+              <mxPoint x="355" y="2000" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NhMcl8OpsM3l9a1iTTUJ-78" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="NhMcl8OpsM3l9a1iTTUJ-63" target="NhMcl8OpsM3l9a1iTTUJ-76">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NhMcl8OpsM3l9a1iTTUJ-63" value="后台前厅人员收到待确认退房预约消息提醒、进入记录页面查看待确认的预约数据进行确认操作" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="1670" width="130" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="NhMcl8OpsM3l9a1iTTUJ-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="NhMcl8OpsM3l9a1iTTUJ-65" target="NhMcl8OpsM3l9a1iTTUJ-72">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NhMcl8OpsM3l9a1iTTUJ-65" value="给客人小程序发送消息通知" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="175" y="1970" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NhMcl8OpsM3l9a1iTTUJ-66" value="提交" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="225" y="1620" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NhMcl8OpsM3l9a1iTTUJ-67" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="NhMcl8OpsM3l9a1iTTUJ-68" target="NhMcl8OpsM3l9a1iTTUJ-65">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="85" y="2000" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NhMcl8OpsM3l9a1iTTUJ-68" value="备注原因" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="25" y="1770" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NhMcl8OpsM3l9a1iTTUJ-69" value="不通过" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="85" y="1670" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NhMcl8OpsM3l9a1iTTUJ-70" value="通过" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="255" y="1750" width="60" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="NhMcl8OpsM3l9a1iTTUJ-71" value="取消" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="350" y="1775" width="60" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="NhMcl8OpsM3l9a1iTTUJ-72" value="结束" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="175" y="2070" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NhMcl8OpsM3l9a1iTTUJ-79" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="NhMcl8OpsM3l9a1iTTUJ-76" target="NhMcl8OpsM3l9a1iTTUJ-65">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="315" y="1840" />
+              <mxPoint x="315" y="2000" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NhMcl8OpsM3l9a1iTTUJ-81" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="NhMcl8OpsM3l9a1iTTUJ-76" target="NhMcl8OpsM3l9a1iTTUJ-80">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NhMcl8OpsM3l9a1iTTUJ-76" value="是否生成退房查房任务工单" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="175" y="1790" width="120" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="NhMcl8OpsM3l9a1iTTUJ-82" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="NhMcl8OpsM3l9a1iTTUJ-80" target="NhMcl8OpsM3l9a1iTTUJ-65">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NhMcl8OpsM3l9a1iTTUJ-80" value="生成任务工单" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="110" y="1900" width="95" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="NhMcl8OpsM3l9a1iTTUJ-83" value="否" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="285" y="1880" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NhMcl8OpsM3l9a1iTTUJ-84" value="是" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="115" y="1860" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
