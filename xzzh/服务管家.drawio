@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-14T06:17:27.515Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="J-yxM_quyykAUq3AxGnD" version="21.6.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-14T06:31:27.749Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="QLAaF4cLrSewZGQbNZ4f" version="21.6.8" type="github">
   <diagram id="wFE0QG_FPsp0jaGvCLVb" name="Page-1">
     <mxGraphModel dx="1034" dy="432" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -93,6 +93,63 @@
         </mxCell>
         <mxCell id="NhMcl8OpsM3l9a1iTTUJ-4" value="取消" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="690" y="410" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NhMcl8OpsM3l9a1iTTUJ-5" value="续住" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="220" y="890" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NhMcl8OpsM3l9a1iTTUJ-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="NhMcl8OpsM3l9a1iTTUJ-6" target="NhMcl8OpsM3l9a1iTTUJ-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NhMcl8OpsM3l9a1iTTUJ-6" value="客人小程序选择天数" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="930" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NhMcl8OpsM3l9a1iTTUJ-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="NhMcl8OpsM3l9a1iTTUJ-7" target="NhMcl8OpsM3l9a1iTTUJ-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NhMcl8OpsM3l9a1iTTUJ-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="NhMcl8OpsM3l9a1iTTUJ-7" target="NhMcl8OpsM3l9a1iTTUJ-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NhMcl8OpsM3l9a1iTTUJ-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="NhMcl8OpsM3l9a1iTTUJ-7" target="NhMcl8OpsM3l9a1iTTUJ-10">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="370" y="1100" />
+              <mxPoint x="370" y="1280" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NhMcl8OpsM3l9a1iTTUJ-7" value="后台前厅人员收到消息提醒、进入记录页面查看待确认的预约数据进行确认操作" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="185" y="1060" width="130" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="NhMcl8OpsM3l9a1iTTUJ-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="NhMcl8OpsM3l9a1iTTUJ-10" target="NhMcl8OpsM3l9a1iTTUJ-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NhMcl8OpsM3l9a1iTTUJ-10" value="给客人小程序发送消息通知" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="1250" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NhMcl8OpsM3l9a1iTTUJ-12" value="提交" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="240" y="1010" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NhMcl8OpsM3l9a1iTTUJ-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="NhMcl8OpsM3l9a1iTTUJ-13" target="NhMcl8OpsM3l9a1iTTUJ-10">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="100" y="1280" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NhMcl8OpsM3l9a1iTTUJ-13" value="备注原因" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="1160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NhMcl8OpsM3l9a1iTTUJ-17" value="不通过" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="100" y="1060" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NhMcl8OpsM3l9a1iTTUJ-18" value="通过、前厅人员在入住机上办入住，线下收款" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="250" y="1170" width="60" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="NhMcl8OpsM3l9a1iTTUJ-20" value="取消" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="365" y="1165" width="60" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="NhMcl8OpsM3l9a1iTTUJ-23" value="结束" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="1360" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
