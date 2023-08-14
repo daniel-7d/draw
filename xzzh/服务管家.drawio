@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-14T07:02:03.335Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="w4D0reMEb6jkJ7dUuD2s" version="21.6.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-14T07:08:13.968Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="8J8yS46nmjCmTW4MPZDN" version="21.6.8" type="github">
   <diagram id="wFE0QG_FPsp0jaGvCLVb" name="Page-1">
     <mxGraphModel dx="1034" dy="432" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -315,6 +315,99 @@
         </mxCell>
         <mxCell id="NhMcl8OpsM3l9a1iTTUJ-126" value="确认消费品和遗留物，损坏备注情况，线下收款" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="640" y="1925" width="60" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="NhMcl8OpsM3l9a1iTTUJ-129" value="开票预约" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="220" y="2180" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NhMcl8OpsM3l9a1iTTUJ-130" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="NhMcl8OpsM3l9a1iTTUJ-131" target="NhMcl8OpsM3l9a1iTTUJ-135">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NhMcl8OpsM3l9a1iTTUJ-131" value="客人小程序选择相关信息进行开票预约" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="2370" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NhMcl8OpsM3l9a1iTTUJ-133" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="NhMcl8OpsM3l9a1iTTUJ-135" target="NhMcl8OpsM3l9a1iTTUJ-140">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NhMcl8OpsM3l9a1iTTUJ-134" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="NhMcl8OpsM3l9a1iTTUJ-135" target="NhMcl8OpsM3l9a1iTTUJ-137">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="370" y="2520" />
+              <mxPoint x="370" y="2810" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NhMcl8OpsM3l9a1iTTUJ-150" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="NhMcl8OpsM3l9a1iTTUJ-135" target="NhMcl8OpsM3l9a1iTTUJ-147">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NhMcl8OpsM3l9a1iTTUJ-135" value="后台前厅人员收到待确认开票预约消息提醒、进入记录页面查看待确认的预约数据进行确认操作" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="182.5" y="2480" width="130" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="NhMcl8OpsM3l9a1iTTUJ-136" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="NhMcl8OpsM3l9a1iTTUJ-137" target="NhMcl8OpsM3l9a1iTTUJ-144">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NhMcl8OpsM3l9a1iTTUJ-137" value="给客人小程序发送消息通知" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="187.5" y="2780" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NhMcl8OpsM3l9a1iTTUJ-138" value="提交" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="240" y="2440" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NhMcl8OpsM3l9a1iTTUJ-139" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="NhMcl8OpsM3l9a1iTTUJ-140" target="NhMcl8OpsM3l9a1iTTUJ-137">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="100" y="2810" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NhMcl8OpsM3l9a1iTTUJ-140" value="备注原因" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="2580" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NhMcl8OpsM3l9a1iTTUJ-141" value="不通过" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="100" y="2480" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NhMcl8OpsM3l9a1iTTUJ-142" value="前厅人员在相关系统查看可开票金额并填写" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="250" y="2580" width="60" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="NhMcl8OpsM3l9a1iTTUJ-143" value="取消" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="365" y="2585" width="60" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="NhMcl8OpsM3l9a1iTTUJ-144" value="结束" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="187.5" y="2890" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NhMcl8OpsM3l9a1iTTUJ-146" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="NhMcl8OpsM3l9a1iTTUJ-145" target="NhMcl8OpsM3l9a1iTTUJ-131">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NhMcl8OpsM3l9a1iTTUJ-145" value="客人小程序提前录入开票信息" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="2240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NhMcl8OpsM3l9a1iTTUJ-149" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="NhMcl8OpsM3l9a1iTTUJ-147" target="NhMcl8OpsM3l9a1iTTUJ-137">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NhMcl8OpsM3l9a1iTTUJ-147" value="填写开票金额" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="187.5" y="2670" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NhMcl8OpsM3l9a1iTTUJ-151" value="确认" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="240" y="2740" width="60" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="NhMcl8OpsM3l9a1iTTUJ-152" value="开票取消" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="667.5" y="2240" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NhMcl8OpsM3l9a1iTTUJ-154" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="NhMcl8OpsM3l9a1iTTUJ-155" target="NhMcl8OpsM3l9a1iTTUJ-159">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NhMcl8OpsM3l9a1iTTUJ-155" value="客人小程序续住记录" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="637.5" y="2280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NhMcl8OpsM3l9a1iTTUJ-158" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="NhMcl8OpsM3l9a1iTTUJ-159" target="NhMcl8OpsM3l9a1iTTUJ-162">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NhMcl8OpsM3l9a1iTTUJ-159" value="后台前厅人员收到取消续住预约消息提醒" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="637.5" y="2440" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NhMcl8OpsM3l9a1iTTUJ-161" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;未确认取消&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="700" y="2370" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="NhMcl8OpsM3l9a1iTTUJ-162" value="结束" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="637.5" y="2600" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
