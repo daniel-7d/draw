@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-15T02:43:30.515Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="RJ2mYvWQEPp55yKg3r5A" version="21.6.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-30T03:27:09.243Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="a1SGHZYWvGmIvpSKjRRm" version="21.6.9" type="github">
   <diagram id="wFE0QG_FPsp0jaGvCLVb" name="Page-1">
     <mxGraphModel dx="1034" dy="432" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -429,6 +429,110 @@
         </mxCell>
         <mxCell id="NhMcl8OpsM3l9a1iTTUJ-172" value="结束" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="810" y="1870" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="u9aoKlN27CszwitiFoNT-1" value="叫醒预约" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="225" y="3080" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="u9aoKlN27CszwitiFoNT-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="u9aoKlN27CszwitiFoNT-3" target="u9aoKlN27CszwitiFoNT-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="u9aoKlN27CszwitiFoNT-3" value="客人小程序选择叫醒时间" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="147.5" y="3120" width="220" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="u9aoKlN27CszwitiFoNT-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="u9aoKlN27CszwitiFoNT-7" target="u9aoKlN27CszwitiFoNT-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="u9aoKlN27CszwitiFoNT-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="u9aoKlN27CszwitiFoNT-7" target="u9aoKlN27CszwitiFoNT-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="u9aoKlN27CszwitiFoNT-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="u9aoKlN27CszwitiFoNT-7" target="u9aoKlN27CszwitiFoNT-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="u9aoKlN27CszwitiFoNT-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="u9aoKlN27CszwitiFoNT-7" target="u9aoKlN27CszwitiFoNT-16">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="480" y="3280" />
+              <mxPoint x="480" y="3670" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="u9aoKlN27CszwitiFoNT-7" value="后台前厅人员收到待确认叫醒预约消息提醒、进入记录页面查看待确认的预约数据进行确认操作" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="145" y="3240" width="225" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="u9aoKlN27CszwitiFoNT-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="u9aoKlN27CszwitiFoNT-9" target="u9aoKlN27CszwitiFoNT-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="u9aoKlN27CszwitiFoNT-9" value="给客人小程序发送消息通知" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="150" y="3540" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="u9aoKlN27CszwitiFoNT-10" value="提交" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="200" y="3190" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="u9aoKlN27CszwitiFoNT-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="u9aoKlN27CszwitiFoNT-12" target="u9aoKlN27CszwitiFoNT-9">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="60" y="3570" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="u9aoKlN27CszwitiFoNT-12" value="备注原因" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry y="3340" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="u9aoKlN27CszwitiFoNT-13" value="不通过" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="60" y="3240" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="u9aoKlN27CszwitiFoNT-14" value="通过" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="230" y="3320" width="60" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="u9aoKlN27CszwitiFoNT-16" value="结束" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="150" y="3640" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="u9aoKlN27CszwitiFoNT-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="u9aoKlN27CszwitiFoNT-19" target="u9aoKlN27CszwitiFoNT-9">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="290" y="3410" />
+              <mxPoint x="290" y="3570" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="u9aoKlN27CszwitiFoNT-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="u9aoKlN27CszwitiFoNT-19" target="u9aoKlN27CszwitiFoNT-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="u9aoKlN27CszwitiFoNT-19" value="是否生成叫醒服务任务工单" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="150" y="3360" width="120" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="u9aoKlN27CszwitiFoNT-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="u9aoKlN27CszwitiFoNT-21" target="u9aoKlN27CszwitiFoNT-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="u9aoKlN27CszwitiFoNT-21" value="生成任务工单" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="85" y="3470" width="95" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="u9aoKlN27CszwitiFoNT-22" value="否" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="260" y="3390" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="u9aoKlN27CszwitiFoNT-23" value="是" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="90" y="3430" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="u9aoKlN27CszwitiFoNT-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="u9aoKlN27CszwitiFoNT-24" target="u9aoKlN27CszwitiFoNT-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="u9aoKlN27CszwitiFoNT-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="u9aoKlN27CszwitiFoNT-24" target="u9aoKlN27CszwitiFoNT-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="u9aoKlN27CszwitiFoNT-24" value="是否设置音箱闹钟叫醒" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="312.5" y="3360" width="120" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="u9aoKlN27CszwitiFoNT-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="u9aoKlN27CszwitiFoNT-27" target="u9aoKlN27CszwitiFoNT-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="u9aoKlN27CszwitiFoNT-27" value="调用音箱叫醒功能设置叫醒时间" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="3480" width="95" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="u9aoKlN27CszwitiFoNT-29" value="是" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="380" y="3450" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="u9aoKlN27CszwitiFoNT-33" value="取消" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="480" y="3420" width="60" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
