@@ -1,26 +1,20 @@
-<mxfile host="app.diagrams.net" modified="2023-10-11T02:14:51.249Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="QoUDWksqzBP1-IM9oXMJ" version="22.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-11T02:26:14.962Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="XI9RQzad7oFtYZL3EIzH" version="22.0.4" type="github">
   <diagram name="第 1 页" id="y1vHdokmSE2ItGK2Re5R">
     <mxGraphModel dx="862" dy="360" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="FUEZWS5f_4TLhAXI5l9z-2" value="" style="shape=actor;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="150" y="110" width="40" height="60" as="geometry" />
+          <mxGeometry x="160" y="110" width="40" height="60" as="geometry" />
         </mxCell>
         <mxCell id="FUEZWS5f_4TLhAXI5l9z-3" value="酒店人员" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="140" y="170" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="FUEZWS5f_4TLhAXI5l9z-5" value="后台配置叫醒时间和房间" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="210" y="110" width="80" height="50" as="geometry" />
+          <mxGeometry x="210" y="90" width="80" height="50" as="geometry" />
         </mxCell>
         <mxCell id="FUEZWS5f_4TLhAXI5l9z-6" value="云平台" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="300" y="120" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="FUEZWS5f_4TLhAXI5l9z-7" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="FUEZWS5f_4TLhAXI5l9z-8">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="360" y="280" as="sourcePoint" />
-            <mxPoint x="360" y="180" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="FUEZWS5f_4TLhAXI5l9z-8" value="音箱设备" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="300" y="320" width="120" height="60" as="geometry" />
@@ -40,14 +34,32 @@
         <mxCell id="FUEZWS5f_4TLhAXI5l9z-13" value="叫醒事件未成功下发给音箱，就需要酒店人员人为介入。下发不成功可能性：1、音箱关机&amp;nbsp; 2、音箱未联网" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="120" y="10" width="210" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="FUEZWS5f_4TLhAXI5l9z-15" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=-0.011;entryY=0.622;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="FUEZWS5f_4TLhAXI5l9z-2" target="FUEZWS5f_4TLhAXI5l9z-6">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="224" y="149.5" as="sourcePoint" />
-            <mxPoint x="290" y="150" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="FUEZWS5f_4TLhAXI5l9z-16" value="核实叫醒情况" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="210" y="160" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FUEZWS5f_4TLhAXI5l9z-17" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="349.17" y="180" as="sourcePoint" />
+            <mxPoint x="349.17" y="320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FUEZWS5f_4TLhAXI5l9z-18" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.667;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="FUEZWS5f_4TLhAXI5l9z-6">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="380" y="320" as="sourcePoint" />
+            <mxPoint x="380" y="190" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FUEZWS5f_4TLhAXI5l9z-19" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="200" y="139.17000000000002" as="sourcePoint" />
+            <mxPoint x="300" y="140" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FUEZWS5f_4TLhAXI5l9z-20" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="300" y="160" as="sourcePoint" />
+            <mxPoint x="200" y="160" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
