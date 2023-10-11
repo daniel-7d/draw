@@ -1,9 +1,48 @@
-<mxfile host="app.diagrams.net" modified="2023-10-11T01:49:01.734Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" version="22.0.4" etag="-OxEIbqm5sSLRFbVacgv" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-11T02:05:45.199Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="l2pGYyRDCHkqoWuL3rCK" version="22.0.4" type="github">
   <diagram name="第 1 页" id="y1vHdokmSE2ItGK2Re5R">
-    <mxGraphModel>
+    <mxGraphModel dx="1034" dy="432" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="FUEZWS5f_4TLhAXI5l9z-2" value="" style="shape=actor;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="150" y="110" width="40" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FUEZWS5f_4TLhAXI5l9z-3" value="酒店人员" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="140" y="170" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FUEZWS5f_4TLhAXI5l9z-4" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="190" y="150" as="sourcePoint" />
+            <mxPoint x="290" y="150" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FUEZWS5f_4TLhAXI5l9z-5" value="后台配置叫醒时间和房间" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="200" y="100" width="80" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="FUEZWS5f_4TLhAXI5l9z-6" value="云平台" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="294" y="120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FUEZWS5f_4TLhAXI5l9z-7" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="FUEZWS5f_4TLhAXI5l9z-8">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="360" y="280" as="sourcePoint" />
+            <mxPoint x="360" y="180" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FUEZWS5f_4TLhAXI5l9z-8" value="音箱设备" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FUEZWS5f_4TLhAXI5l9z-9" value="给音箱下发叫醒事件，到了叫醒时间后，联动音箱执行打电话播报语音事件" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="240" y="210" width="110" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="FUEZWS5f_4TLhAXI5l9z-10" value="1、上报音箱已接收叫醒事件" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="390" y="200" width="160" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="FUEZWS5f_4TLhAXI5l9z-11" value="2、到达叫醒时间后上报音箱是否执行了叫醒事件（音箱关机不会上报）" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="390" y="230" width="220" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="FUEZWS5f_4TLhAXI5l9z-12" value="3、客人操作后上报客人接听与结束事件" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="390" y="270" width="220" height="20" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
