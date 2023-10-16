@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-10-16T08:14:18.952Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="avy2r7jFIWDFGrb-psSE" version="22.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-16T08:17:24.738Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="JJm_YmklauGCe7To4UtW" version="22.0.4" type="github">
   <diagram name="第 1 页" id="DbyfGigxy767PJ1lEiW6">
-    <mxGraphModel dx="1034" dy="432" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1216" dy="508" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -24,6 +24,9 @@
         </mxCell>
         <mxCell id="ClUf6Cy2C5y6GZQuqbvQ-6" value="COS云存储服务" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="309" y="350" width="101" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ClUf6Cy2C5y6GZQuqbvQ-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="ClUf6Cy2C5y6GZQuqbvQ-8" target="ClUf6Cy2C5y6GZQuqbvQ-21">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ClUf6Cy2C5y6GZQuqbvQ-8" value="云平台" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="314.5" y="585" width="90" height="50" as="geometry" />
@@ -65,6 +68,31 @@
         </mxCell>
         <mxCell id="ClUf6Cy2C5y6GZQuqbvQ-20" value="下发是否通话录音上报配置" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="240" y="170" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ClUf6Cy2C5y6GZQuqbvQ-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ClUf6Cy2C5y6GZQuqbvQ-21" target="ClUf6Cy2C5y6GZQuqbvQ-8">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="250" y="730" />
+              <mxPoint x="250" y="610" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ClUf6Cy2C5y6GZQuqbvQ-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ClUf6Cy2C5y6GZQuqbvQ-21" target="ClUf6Cy2C5y6GZQuqbvQ-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="520" y="730" />
+              <mxPoint x="520" y="260" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ClUf6Cy2C5y6GZQuqbvQ-21" value="是否上传成功" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="319.5" y="690" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ClUf6Cy2C5y6GZQuqbvQ-24" value="上报失败，重新上报" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="170" y="650" width="76" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ClUf6Cy2C5y6GZQuqbvQ-27" value="上报成功，触发音箱删除本地录音文件" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="420" y="690" width="86" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
