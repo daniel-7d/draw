@@ -1,9 +1,17 @@
-<mxfile host="app.diagrams.net" modified="2023-10-17T09:17:11.711Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="O-VZPeA55Eqv6JtvLHJS" version="22.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-17T09:19:59.963Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="nL08AFR3oM34dBJKPUGw" version="22.0.4" type="github">
   <diagram name="第 1 页" id="S0BM6rzJhSkhXBrJgWOM">
     <mxGraphModel dx="1034" dy="432" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="yDiqrFp9JHWPbxO8xWCX-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="yDiqrFp9JHWPbxO8xWCX-1" target="yDiqrFp9JHWPbxO8xWCX-8">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="545" y="300" />
+              <mxPoint x="140" y="300" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="yDiqrFp9JHWPbxO8xWCX-1" value="省市区域天气服务" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="480" y="190" width="130" height="60" as="geometry" />
         </mxCell>
@@ -22,8 +30,26 @@
         <mxCell id="yDiqrFp9JHWPbxO8xWCX-7" value="更新天气并缓存" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="550" y="120" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="yDiqrFp9JHWPbxO8xWCX-8" value="语音输入查天气" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="yDiqrFp9JHWPbxO8xWCX-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="yDiqrFp9JHWPbxO8xWCX-8" target="yDiqrFp9JHWPbxO8xWCX-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yDiqrFp9JHWPbxO8xWCX-8" value="设备通过语音输入查天气" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="80" y="190" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yDiqrFp9JHWPbxO8xWCX-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="yDiqrFp9JHWPbxO8xWCX-9" target="yDiqrFp9JHWPbxO8xWCX-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yDiqrFp9JHWPbxO8xWCX-9" value="nlp天气技能" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="190" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yDiqrFp9JHWPbxO8xWCX-11" value="语音识别" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="200" y="190" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="yDiqrFp9JHWPbxO8xWCX-13" value="上报省市区域标识" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="400" y="190" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="yDiqrFp9JHWPbxO8xWCX-15" value="下发相关天气信息" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="280" y="270" width="100" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
