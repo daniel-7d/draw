@@ -1,9 +1,27 @@
-<mxfile host="app.diagrams.net" modified="2023-10-17T09:12:22.061Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" version="22.0.4" etag="KqcFH8s7nEZA2DJ1k8qK" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-17T09:16:09.733Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="-kwGvLAuZssXpoQNaVgf" version="22.0.4" type="github">
   <diagram name="第 1 页" id="S0BM6rzJhSkhXBrJgWOM">
-    <mxGraphModel>
+    <mxGraphModel dx="1034" dy="432" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="yDiqrFp9JHWPbxO8xWCX-1" value="省市区域天气服务" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="190" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yDiqrFp9JHWPbxO8xWCX-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="yDiqrFp9JHWPbxO8xWCX-2" target="yDiqrFp9JHWPbxO8xWCX-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yDiqrFp9JHWPbxO8xWCX-2" value="第三方天气服务" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="370" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yDiqrFp9JHWPbxO8xWCX-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="yDiqrFp9JHWPbxO8xWCX-3" target="yDiqrFp9JHWPbxO8xWCX-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yDiqrFp9JHWPbxO8xWCX-3" value="自研天气服务" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yDiqrFp9JHWPbxO8xWCX-7" value="更新天气并缓存" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="550" y="120" width="90" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
