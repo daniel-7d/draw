@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-26T07:23:26.344Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="DAroeORQyaXaX1unMUqI" version="22.0.7" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-26T07:47:42.761Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="t8sHROUGNEw_A5uJZOEb" version="22.0.7" type="github">
   <diagram name="第 1 页" id="yayIas5Ccat3wBkKV7QJ">
     <mxGraphModel dx="1034" dy="1601" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -8,7 +8,7 @@
           <mxGeometry x="100" y="180" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="90YdUAzLb2wsjgZhNj6_-2" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;" parent="1" vertex="1">
-          <mxGeometry x="220" y="-60" width="30" height="630" as="geometry" />
+          <mxGeometry x="220" y="-60" width="30" height="700" as="geometry" />
         </mxCell>
         <mxCell id="svN1KODfeErU4mR28TL3-1" value="基础数据" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="260" y="-20" width="120" height="60" as="geometry" />
@@ -188,7 +188,19 @@
           <mxGeometry x="447" y="415" width="111.5" height="50" as="geometry" />
         </mxCell>
         <mxCell id="svN1KODfeErU4mR28TL3-76" value="发起http请求将音箱设备标识，传给处理后端，要求通话双方设备挂断" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="790" y="450" width="100" height="55" as="geometry" />
+          <mxGeometry x="770" y="380" width="100" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="svN1KODfeErU4mR28TL3-77" value="心跳机制" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="268.5" y="550" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="svN1KODfeErU4mR28TL3-78" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;points=[[0,0.5,0,0,0],[0.5,0,0,0,0],[0.5,1,0,0,0],[1,0,0,0,0],[1,0.5,0,0,0],[1,1,0,0,0]];" vertex="1" parent="1">
+          <mxGeometry x="389" y="535" width="50" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="svN1KODfeErU4mR28TL3-79" value="通话的设备" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="448.5" y="510" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="svN1KODfeErU4mR28TL3-80" value="按键或点击触发" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="447" y="600" width="110" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
