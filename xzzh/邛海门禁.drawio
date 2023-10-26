@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-26T10:16:45.274Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="TMlKek5kF9MJxF9k59JV" version="22.0.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-26T10:17:39.806Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="diqA7_wfpsZ_clNhsBA5" version="22.0.8" type="github">
   <diagram name="第 1 页" id="MqLak2tUNxj501sDUyA4">
     <mxGraphModel dx="1034" dy="432" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -199,7 +199,7 @@
         <mxCell id="dcuhQKb_KivRzL7AXJs5-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="dcuhQKb_KivRzL7AXJs5-63" target="dcuhQKb_KivRzL7AXJs5-68">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="dcuhQKb_KivRzL7AXJs5-63" value="通话的设备" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="dcuhQKb_KivRzL7AXJs5-63" value="可视的设备" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="518.5" y="980" width="110" height="60" as="geometry" />
         </mxCell>
         <mxCell id="dcuhQKb_KivRzL7AXJs5-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="dcuhQKb_KivRzL7AXJs5-65" target="dcuhQKb_KivRzL7AXJs5-75">
@@ -220,13 +220,13 @@
         <mxCell id="dcuhQKb_KivRzL7AXJs5-69" value="定时10秒查询后端通话的状态" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="638.5" y="965" width="111.5" height="55" as="geometry" />
         </mxCell>
-        <mxCell id="dcuhQKb_KivRzL7AXJs5-70" value="设备保持通话" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="dcuhQKb_KivRzL7AXJs5-70" value="设备保持可视通话" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1000" y="940" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="dcuhQKb_KivRzL7AXJs5-71" value="状态正常" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="930" y="940" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="dcuhQKb_KivRzL7AXJs5-72" value="设备挂断通话" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="dcuhQKb_KivRzL7AXJs5-72" value="设备挂断可视通话" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1000" y="1040" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="dcuhQKb_KivRzL7AXJs5-73" value="状态不正常" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
@@ -247,7 +247,7 @@
         <mxCell id="dcuhQKb_KivRzL7AXJs5-78" value="给双方设备推送挂断信号" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="897" y="1120" width="110" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="dcuhQKb_KivRzL7AXJs5-79" value="设备挂断通话" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="dcuhQKb_KivRzL7AXJs5-79" value="设备挂断可视通话" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1090" y="1120" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="dcuhQKb_KivRzL7AXJs5-80" value="双方心跳有一方不正常" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
