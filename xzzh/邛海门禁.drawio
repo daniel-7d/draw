@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-26T10:14:33.384Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="OQvvUAzKqWJVfKGpihJN" version="22.0.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-26T10:16:45.274Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="TMlKek5kF9MJxF9k59JV" version="22.0.8" type="github">
   <diagram name="第 1 页" id="MqLak2tUNxj501sDUyA4">
     <mxGraphModel dx="1034" dy="432" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -19,20 +19,20 @@
         <mxCell id="dcuhQKb_KivRzL7AXJs5-5" value="声网信息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="508.5" y="410" width="130" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="dcuhQKb_KivRzL7AXJs5-6" value="电话权限" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="dcuhQKb_KivRzL7AXJs5-6" value="门牌信息配置" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="680" y="410" width="130" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="dcuhQKb_KivRzL7AXJs5-7" value="响铃次数" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="dcuhQKb_KivRzL7AXJs5-7" value="员工配置" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="508.5" y="465" width="130" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="dcuhQKb_KivRzL7AXJs5-8" value="通话心跳检测时间" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="dcuhQKb_KivRzL7AXJs5-8" value="员工特征码信息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="680" y="470" width="130" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="dcuhQKb_KivRzL7AXJs5-9" value="采码方式和场景" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="508.5" y="520" width="130" height="30" as="geometry" />
+        <mxCell id="dcuhQKb_KivRzL7AXJs5-9" value="显示页面背景配置" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="840" y="470" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="dcuhQKb_KivRzL7AXJs5-10" value="绑定设备" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="680" y="520" width="130" height="30" as="geometry" />
+          <mxGeometry x="510" y="520" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="dcuhQKb_KivRzL7AXJs5-11" value="拨打电话" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="330" y="640" width="120" height="60" as="geometry" />
@@ -261,6 +261,9 @@
         </mxCell>
         <mxCell id="dcuhQKb_KivRzL7AXJs5-83" value="门禁平板" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="700" y="320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dcuhQKb_KivRzL7AXJs5-84" value="通话短号" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="840" y="410" width="130" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
