@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-26T07:07:11.459Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="hV543hvU5kuOolxyBmpC" version="22.0.7" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-26T07:07:33.456Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="tNe4I5wypDtqPTQuumWm" version="22.0.7" type="github">
   <diagram name="第 1 页" id="yayIas5Ccat3wBkKV7QJ">
     <mxGraphModel dx="1034" dy="1601" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -99,8 +99,8 @@
         <mxCell id="svN1KODfeErU4mR28TL3-39" value="无权限、不在线、忙碌、空号" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="960" y="20" width="130" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="svN1KODfeErU4mR28TL3-40" value="空闲在线，给被叫设备发送呼叫消息与通话频道号" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1030" y="147.5" width="70" height="97.5" as="geometry" />
+        <mxCell id="svN1KODfeErU4mR28TL3-40" value="被叫空闲在线，给被叫设备发送呼叫消息与通话频道号" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1020" y="161.25" width="70" height="97.5" as="geometry" />
         </mxCell>
         <mxCell id="svN1KODfeErU4mR28TL3-41" value="主叫设备结束通话" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1331" y="40" width="120" height="60" as="geometry" />
