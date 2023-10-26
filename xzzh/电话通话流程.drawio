@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-26T06:42:32.689Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="BYePcxtwcZ476KXP6L3a" version="22.0.7" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-26T07:07:11.459Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="hV543hvU5kuOolxyBmpC" version="22.0.7" type="github">
   <diagram name="第 1 页" id="yayIas5Ccat3wBkKV7QJ">
     <mxGraphModel dx="1034" dy="1601" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -37,24 +37,102 @@
         <mxCell id="svN1KODfeErU4mR28TL3-15" value="拨打电话" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="260" y="170" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="svN1KODfeErU4mR28TL3-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="svN1KODfeErU4mR28TL3-16">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="460" y="245" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="svN1KODfeErU4mR28TL3-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="svN1KODfeErU4mR28TL3-16">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="460" y="155" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="svN1KODfeErU4mR28TL3-16" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;points=[[0,0.5,0,0,0],[0.5,0,0,0,0],[0.5,1,0,0,0],[1,0,0,0,0],[1,0.5,0,0,0],[1,1,0,0,0]];" vertex="1" parent="1">
           <mxGeometry x="380" y="155" width="50" height="90" as="geometry" />
         </mxCell>
+        <mxCell id="svN1KODfeErU4mR28TL3-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="svN1KODfeErU4mR28TL3-21" target="svN1KODfeErU4mR28TL3-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="svN1KODfeErU4mR28TL3-21" value="按键或点击触发" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="460" y="130" width="120" height="60" as="geometry" />
+          <mxGeometry x="440" y="130" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="svN1KODfeErU4mR28TL3-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="svN1KODfeErU4mR28TL3-22">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="600" y="245" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="svN1KODfeErU4mR28TL3-22" value="语音呼叫触发" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="460" y="220" width="120" height="60" as="geometry" />
+          <mxGeometry x="438.5" y="220" width="111.5" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="svN1KODfeErU4mR28TL3-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="svN1KODfeErU4mR28TL3-24" target="svN1KODfeErU4mR28TL3-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="svN1KODfeErU4mR28TL3-24" value="主叫设备发起通话(进入拨号页面)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="130" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="svN1KODfeErU4mR28TL3-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="svN1KODfeErU4mR28TL3-26" target="svN1KODfeErU4mR28TL3-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="svN1KODfeErU4mR28TL3-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="svN1KODfeErU4mR28TL3-26" target="svN1KODfeErU4mR28TL3-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="svN1KODfeErU4mR28TL3-26" value="后端处理相关逻辑" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="850" y="130" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="svN1KODfeErU4mR28TL3-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="svN1KODfeErU4mR28TL3-27" target="svN1KODfeErU4mR28TL3-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="svN1KODfeErU4mR28TL3-27" value="被叫设备收到呼叫消息处理相关逻辑" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1100" y="130" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="svN1KODfeErU4mR28TL3-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="svN1KODfeErU4mR28TL3-28" target="svN1KODfeErU4mR28TL3-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="svN1KODfeErU4mR28TL3-28" value="后端接口接收被叫应答、处理相关逻辑" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1331" y="130" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="svN1KODfeErU4mR28TL3-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="svN1KODfeErU4mR28TL3-29" target="svN1KODfeErU4mR28TL3-47">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="svN1KODfeErU4mR28TL3-29" value="主叫设备收到应答消息" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1570" y="130" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="svN1KODfeErU4mR28TL3-34" value="发起http请求将被叫号码传给后端，要求被叫设备振铃" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="740" y="100" width="100" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="svN1KODfeErU4mR28TL3-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="svN1KODfeErU4mR28TL3-37" target="svN1KODfeErU4mR28TL3-41">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="svN1KODfeErU4mR28TL3-37" value="给主叫设备返回通话结束与原因" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1100" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="svN1KODfeErU4mR28TL3-39" value="无权限、不在线、忙碌、空号" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="960" y="20" width="130" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="svN1KODfeErU4mR28TL3-40" value="空闲在线，给被叫设备发送呼叫消息与通话频道号" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1030" y="147.5" width="70" height="97.5" as="geometry" />
+        </mxCell>
+        <mxCell id="svN1KODfeErU4mR28TL3-41" value="主叫设备结束通话" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1331" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="svN1KODfeErU4mR28TL3-43" value="进入响铃页面，加入通话频道，请求后端接口发送应答消息与频道号" style="text;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="1230" y="175" width="100" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="svN1KODfeErU4mR28TL3-46" value="给主叫设备发送应答消息与通话频道号" style="text;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="1460" y="180" width="100" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="svN1KODfeErU4mR28TL3-47" value="正常通话" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1780" y="130" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="svN1KODfeErU4mR28TL3-49" value="加入通话频道" style="text;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="1690" y="180" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="svN1KODfeErU4mR28TL3-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="svN1KODfeErU4mR28TL3-51" target="svN1KODfeErU4mR28TL3-52">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="svN1KODfeErU4mR28TL3-51" value="NLP解析是通话意图与被叫号码" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="215" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="svN1KODfeErU4mR28TL3-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="svN1KODfeErU4mR28TL3-52" target="svN1KODfeErU4mR28TL3-24">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="830" y="210" />
+              <mxPoint x="660" y="210" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="svN1KODfeErU4mR28TL3-52" value="音箱接收通话意图意图与被叫号码" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="770" y="215" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
