@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-27T01:11:20.247Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="HCTc6Pyx0fX5TeNDWABz" version="22.0.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-27T01:16:17.719Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="Lot3xqjnDvRi0bHNHaa2" version="22.0.8" type="github">
   <diagram name="第 1 页" id="MqLak2tUNxj501sDUyA4">
     <mxGraphModel dx="1034" dy="432" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -87,6 +87,9 @@
         </mxCell>
         <mxCell id="dcuhQKb_KivRzL7AXJs5-98" value="发起http请求将被叫号码传给后端，要求被叫设备响应" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="812.75" y="612.5" width="100" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="LPM7PzEZq8jEU3c2NB74-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="dcuhQKb_KivRzL7AXJs5-99" target="LPM7PzEZq8jEU3c2NB74-43">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="dcuhQKb_KivRzL7AXJs5-99" value="正常可视通话" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1852.75" y="642.5" width="120" height="60" as="geometry" />
@@ -189,6 +192,57 @@
         </mxCell>
         <mxCell id="LPM7PzEZq8jEU3c2NB74-42" value="双方心跳有一方不正常" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="817.5" y="895" width="71.5" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="LPM7PzEZq8jEU3c2NB74-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="LPM7PzEZq8jEU3c2NB74-43" target="LPM7PzEZq8jEU3c2NB74-46">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LPM7PzEZq8jEU3c2NB74-43" value="被叫设备上点击开门" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2050" y="642.5" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LPM7PzEZq8jEU3c2NB74-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="LPM7PzEZq8jEU3c2NB74-46" target="LPM7PzEZq8jEU3c2NB74-48">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LPM7PzEZq8jEU3c2NB74-46" value="调用php开门接口" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2250" y="642.5" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LPM7PzEZq8jEU3c2NB74-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="LPM7PzEZq8jEU3c2NB74-48" target="LPM7PzEZq8jEU3c2NB74-49">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LPM7PzEZq8jEU3c2NB74-48" value="php调用java开门接口" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2432.75" y="642.5" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LPM7PzEZq8jEU3c2NB74-49" value="开门" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2610" y="642.5" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LPM7PzEZq8jEU3c2NB74-51" value="平板主动按键开门" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="1080" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LPM7PzEZq8jEU3c2NB74-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="LPM7PzEZq8jEU3c2NB74-52" target="LPM7PzEZq8jEU3c2NB74-59">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LPM7PzEZq8jEU3c2NB74-52" value="平板开机拉取声网信息、门禁信息" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="512.75" y="1080" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LPM7PzEZq8jEU3c2NB74-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="LPM7PzEZq8jEU3c2NB74-55" target="LPM7PzEZq8jEU3c2NB74-57">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LPM7PzEZq8jEU3c2NB74-55" value="调用php开门接口" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="940" y="1080" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LPM7PzEZq8jEU3c2NB74-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="LPM7PzEZq8jEU3c2NB74-57" target="LPM7PzEZq8jEU3c2NB74-58">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LPM7PzEZq8jEU3c2NB74-57" value="php调用java开门接口" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1122.75" y="1080" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LPM7PzEZq8jEU3c2NB74-58" value="开门" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1300" y="1080" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LPM7PzEZq8jEU3c2NB74-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="LPM7PzEZq8jEU3c2NB74-59" target="LPM7PzEZq8jEU3c2NB74-55">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LPM7PzEZq8jEU3c2NB74-59" value="点击门禁列表相关门禁开门按钮" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="730" y="1080" width="110" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
