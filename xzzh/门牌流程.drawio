@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-30T06:54:51.301Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="zJXyNR_kcEJ1yafV9xvq" version="22.0.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-30T06:56:13.135Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="hxHpbhJdfKAh-pesu1eR" version="22.0.8" type="github">
   <diagram name="第 1 页" id="fPgfxLH1vUaf4vWl7ehr">
     <mxGraphModel dx="1034" dy="432" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -66,7 +66,7 @@
         <mxCell id="tCNvh4tEcVVTbbnTu76i-23" value="被叫设备收到呼叫消息处理相关逻辑" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1102.75" y="592.5" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="tCNvh4tEcVVTbbnTu76i-24" value="发起http请求将被叫号码传给后端，要求音箱、电视设备响应" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="tCNvh4tEcVVTbbnTu76i-24" value="发起http请求将被按门铃房间信息传给后端，要求音箱、电视设备、客控门铃响应" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="742.75" y="562.5" width="100" height="55" as="geometry" />
         </mxCell>
         <mxCell id="tCNvh4tEcVVTbbnTu76i-68" value="安全验证" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
