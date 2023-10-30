@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-30T06:56:13.135Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="hxHpbhJdfKAh-pesu1eR" version="22.0.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-30T07:05:27.752Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="fE6JrtUKHqQRgMgUB_Fj" version="22.0.8" type="github">
   <diagram name="第 1 页" id="fPgfxLH1vUaf4vWl7ehr">
     <mxGraphModel dx="1034" dy="432" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -47,33 +47,104 @@
           <mxGeometry x="442.75" y="592.5" width="110" height="60" as="geometry" />
         </mxCell>
         <mxCell id="tCNvh4tEcVVTbbnTu76i-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="tCNvh4tEcVVTbbnTu76i-19" target="tCNvh4tEcVVTbbnTu76i-21">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="870" y="623" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="tCNvh4tEcVVTbbnTu76i-19" value="门牌设备发起可视通话(进入通话页面)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="602.75" y="592.5" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="tCNvh4tEcVVTbbnTu76i-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="tCNvh4tEcVVTbbnTu76i-21" target="tCNvh4tEcVVTbbnTu76i-23">
+        <mxCell id="tCNvh4tEcVVTbbnTu76i-70" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="tCNvh4tEcVVTbbnTu76i-21" target="tCNvh4tEcVVTbbnTu76i-23">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="tCNvh4tEcVVTbbnTu76i-21" value="后端处理相关逻辑" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="852.75" y="592.5" width="120" height="60" as="geometry" />
+        <mxCell id="tCNvh4tEcVVTbbnTu76i-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="tCNvh4tEcVVTbbnTu76i-21" target="tCNvh4tEcVVTbbnTu76i-71">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="tCNvh4tEcVVTbbnTu76i-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="tCNvh4tEcVVTbbnTu76i-23">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1334" y="623" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="tCNvh4tEcVVTbbnTu76i-21" value="php后端处理相关逻辑" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="870" y="592.5" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="tCNvh4tEcVVTbbnTu76i-23" value="被叫设备收到呼叫消息处理相关逻辑" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1102.75" y="592.5" width="120" height="60" as="geometry" />
+        <mxCell id="tCNvh4tEcVVTbbnTu76i-76" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="tCNvh4tEcVVTbbnTu76i-23" target="tCNvh4tEcVVTbbnTu76i-75">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tCNvh4tEcVVTbbnTu76i-23" value="电视、音箱收到门铃事件" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1060" y="530" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="tCNvh4tEcVVTbbnTu76i-24" value="发起http请求将被按门铃房间信息传给后端，要求音箱、电视设备、客控门铃响应" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="742.75" y="562.5" width="100" height="55" as="geometry" />
+          <mxGeometry x="740" y="555" width="100" height="55" as="geometry" />
         </mxCell>
         <mxCell id="tCNvh4tEcVVTbbnTu76i-68" value="安全验证" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="610" y="440" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="tCNvh4tEcVVTbbnTu76i-69" value="远程升级" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="760" y="440" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="tCNvh4tEcVVTbbnTu76i-74" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="tCNvh4tEcVVTbbnTu76i-71" target="tCNvh4tEcVVTbbnTu76i-73">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tCNvh4tEcVVTbbnTu76i-71" value="客控收到门铃事件" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1060" y="640" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tCNvh4tEcVVTbbnTu76i-73" value="控制设备响铃" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1280" y="640" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tCNvh4tEcVVTbbnTu76i-78" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="tCNvh4tEcVVTbbnTu76i-75" target="tCNvh4tEcVVTbbnTu76i-77">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tCNvh4tEcVVTbbnTu76i-75" value="电视、音箱加入可视通话频道，看到门牌摄像头画面" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1270" y="530" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tCNvh4tEcVVTbbnTu76i-80" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="tCNvh4tEcVVTbbnTu76i-77" target="tCNvh4tEcVVTbbnTu76i-79">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tCNvh4tEcVVTbbnTu76i-77" value="电视、音箱上点击开门按钮" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1480" y="530" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tCNvh4tEcVVTbbnTu76i-82" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="tCNvh4tEcVVTbbnTu76i-79" target="tCNvh4tEcVVTbbnTu76i-81">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tCNvh4tEcVVTbbnTu76i-79" value="调用php开门接口" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1700" y="530" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tCNvh4tEcVVTbbnTu76i-84" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="tCNvh4tEcVVTbbnTu76i-81" target="tCNvh4tEcVVTbbnTu76i-83">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tCNvh4tEcVVTbbnTu76i-81" value="php调用java开门接口" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1910" y="530" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tCNvh4tEcVVTbbnTu76i-83" value="门锁开门" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2110" y="530" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tCNvh4tEcVVTbbnTu76i-85" value="清理、勿扰、SOS" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="740" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tCNvh4tEcVVTbbnTu76i-88" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="tCNvh4tEcVVTbbnTu76i-86" target="tCNvh4tEcVVTbbnTu76i-87">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tCNvh4tEcVVTbbnTu76i-86" value="面板点击相关按键" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="438.5" y="740" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tCNvh4tEcVVTbbnTu76i-90" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="tCNvh4tEcVVTbbnTu76i-87" target="tCNvh4tEcVVTbbnTu76i-89">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tCNvh4tEcVVTbbnTu76i-87" value="主机上报" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="602.75" y="740" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tCNvh4tEcVVTbbnTu76i-92" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="tCNvh4tEcVVTbbnTu76i-89" target="tCNvh4tEcVVTbbnTu76i-91">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tCNvh4tEcVVTbbnTu76i-89" value="java云平台转发" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="790" y="740" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tCNvh4tEcVVTbbnTu76i-94" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="tCNvh4tEcVVTbbnTu76i-91" target="tCNvh4tEcVVTbbnTu76i-93">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tCNvh4tEcVVTbbnTu76i-91" value="门牌接收mqtt属性变化" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="990" y="740" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tCNvh4tEcVVTbbnTu76i-93" value="门牌相应图标状态变更" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1170" y="740" width="110" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
