@@ -1,14 +1,14 @@
-<mxfile host="app.diagrams.net" modified="2023-10-30T07:06:38.403Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="8Anw00CnVZiPtTF1jFx6" version="22.0.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-30T07:18:03.788Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="Y1kN4qKePCWYY-3-IEDT" version="22.0.8" type="github">
   <diagram name="第 1 页" id="fPgfxLH1vUaf4vWl7ehr">
     <mxGraphModel dx="1034" dy="432" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="tCNvh4tEcVVTbbnTu76i-1" value="百度门牌" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="90" y="640" width="120" height="60" as="geometry" />
+          <mxGeometry x="100" y="655" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="tCNvh4tEcVVTbbnTu76i-2" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;" vertex="1" parent="1">
-          <mxGeometry x="220" y="250" width="30" height="830" as="geometry" />
+          <mxGeometry x="220" y="250" width="30" height="870" as="geometry" />
         </mxCell>
         <mxCell id="tCNvh4tEcVVTbbnTu76i-3" value="基础功能" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="260" y="390" width="120" height="60" as="geometry" />
@@ -148,6 +148,87 @@
         </mxCell>
         <mxCell id="tCNvh4tEcVVTbbnTu76i-95" value="刷脸开门" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="260" y="900" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tCNvh4tEcVVTbbnTu76i-105" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="tCNvh4tEcVVTbbnTu76i-96" target="tCNvh4tEcVVTbbnTu76i-103">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tCNvh4tEcVVTbbnTu76i-96" value="拉取入住人脸特征码保存到本地" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="597.75" y="900" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tCNvh4tEcVVTbbnTu76i-99" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="tCNvh4tEcVVTbbnTu76i-97" target="tCNvh4tEcVVTbbnTu76i-96">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tCNvh4tEcVVTbbnTu76i-97" value="门牌收到入住、退房事件，更新人脸信息" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="413.5" y="840" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tCNvh4tEcVVTbbnTu76i-101" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="tCNvh4tEcVVTbbnTu76i-98" target="tCNvh4tEcVVTbbnTu76i-96">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tCNvh4tEcVVTbbnTu76i-98" value="门牌开机初始化，拉取人脸信息" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="413.5" y="950" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tCNvh4tEcVVTbbnTu76i-106" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="tCNvh4tEcVVTbbnTu76i-103" target="tCNvh4tEcVVTbbnTu76i-104">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tCNvh4tEcVVTbbnTu76i-103" value="客人刷脸" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="780" y="900" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tCNvh4tEcVVTbbnTu76i-110" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="tCNvh4tEcVVTbbnTu76i-104" target="tCNvh4tEcVVTbbnTu76i-107">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tCNvh4tEcVVTbbnTu76i-111" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="tCNvh4tEcVVTbbnTu76i-104" target="tCNvh4tEcVVTbbnTu76i-108">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tCNvh4tEcVVTbbnTu76i-104" value="门牌本地验证客人特征码" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="960" y="900" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tCNvh4tEcVVTbbnTu76i-112" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="tCNvh4tEcVVTbbnTu76i-107" target="tCNvh4tEcVVTbbnTu76i-109">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tCNvh4tEcVVTbbnTu76i-107" value="客人特征码验证未通过" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1150" y="840" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tCNvh4tEcVVTbbnTu76i-116" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="tCNvh4tEcVVTbbnTu76i-108" target="tCNvh4tEcVVTbbnTu76i-114">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tCNvh4tEcVVTbbnTu76i-119" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="tCNvh4tEcVVTbbnTu76i-108" target="tCNvh4tEcVVTbbnTu76i-118">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tCNvh4tEcVVTbbnTu76i-108" value="客人特征码验证通过" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1150" y="1010" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tCNvh4tEcVVTbbnTu76i-109" value="调用php开门接口，记录刷脸信息" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1340" y="840" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tCNvh4tEcVVTbbnTu76i-117" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="tCNvh4tEcVVTbbnTu76i-114" target="tCNvh4tEcVVTbbnTu76i-115">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tCNvh4tEcVVTbbnTu76i-114" value="门牌本地通讯直接开门" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1340" y="950" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tCNvh4tEcVVTbbnTu76i-115" value="调用php开门接口，记录刷脸记录,缓存5分钟刷脸人信息" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1550" y="950" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tCNvh4tEcVVTbbnTu76i-124" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="tCNvh4tEcVVTbbnTu76i-118" target="tCNvh4tEcVVTbbnTu76i-121">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tCNvh4tEcVVTbbnTu76i-118" value="门牌通过云端接口开门" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1340" y="1070" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tCNvh4tEcVVTbbnTu76i-125" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="tCNvh4tEcVVTbbnTu76i-121" target="tCNvh4tEcVVTbbnTu76i-122">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tCNvh4tEcVVTbbnTu76i-121" value="调用php开门接口，记录刷脸记录,缓存5分钟刷脸人信息" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1550" y="1070" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tCNvh4tEcVVTbbnTu76i-126" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="tCNvh4tEcVVTbbnTu76i-122" target="tCNvh4tEcVVTbbnTu76i-123">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tCNvh4tEcVVTbbnTu76i-122" value="php调用java开门接口" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1750" y="1070" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tCNvh4tEcVVTbbnTu76i-123" value="门锁开门" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1940" y="1070" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
