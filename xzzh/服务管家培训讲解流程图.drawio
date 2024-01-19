@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-19T07:29:07.113Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="VV2jeSQVlmMWw9NdYWZJ" version="22.1.21" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-19T07:32:36.645Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="riSKuDIJHNsuoYPjMTa_" version="22.1.21" type="github">
   <diagram name="第 1 页" id="POW11fnQm5mWFkC5Kxqr">
     <mxGraphModel dx="1861" dy="420" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -99,29 +99,11 @@
         <mxCell id="E60OoVWMno9rJtvesI1o-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="E60OoVWMno9rJtvesI1o-35" target="E60OoVWMno9rJtvesI1o-37">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="E60OoVWMno9rJtvesI1o-35" value="前厅人员审核处理" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="E60OoVWMno9rJtvesI1o-35" value="前厅人员审核并处理" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="310" y="590" width="80" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="E60OoVWMno9rJtvesI1o-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="E60OoVWMno9rJtvesI1o-37" target="E60OoVWMno9rJtvesI1o-39">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="E60OoVWMno9rJtvesI1o-37" value="客人预约记录" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="470" y="590" width="80" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="E60OoVWMno9rJtvesI1o-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="E60OoVWMno9rJtvesI1o-39" target="E60OoVWMno9rJtvesI1o-41">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="E60OoVWMno9rJtvesI1o-39" value="客人评价" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="630" y="590" width="80" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="E60OoVWMno9rJtvesI1o-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="E60OoVWMno9rJtvesI1o-41" target="E60OoVWMno9rJtvesI1o-42">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="E60OoVWMno9rJtvesI1o-41" value="数据分析" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="790" y="590" width="80" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="E60OoVWMno9rJtvesI1o-42" value="提升服务质量" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="950" y="590" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
