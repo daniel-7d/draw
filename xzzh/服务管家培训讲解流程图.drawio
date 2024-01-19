@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-19T07:39:53.744Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="ZZT66YEKo8_qGKSuob6J" version="22.1.21" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-19T07:45:14.413Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="CSTTyp_yTw9EiJ9LHwNJ" version="22.1.21" type="github">
   <diagram name="第 1 页" id="POW11fnQm5mWFkC5Kxqr">
     <mxGraphModel dx="1861" dy="420" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -105,8 +105,34 @@
         <mxCell id="E60OoVWMno9rJtvesI1o-37" value="客人预约记录" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="470" y="590" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="E60OoVWMno9rJtvesI1o-43" value="1、小程序预约服务配置：&lt;br&gt;目前支持的预约服务有&lt;br&gt;" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="E60OoVWMno9rJtvesI1o-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.96;exitY=0.7;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="E60OoVWMno9rJtvesI1o-43" target="E60OoVWMno9rJtvesI1o-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="E60OoVWMno9rJtvesI1o-43" value="1、小程序预约服务配置：&lt;br&gt;目前支持的预约服务有&lt;br&gt;预约开票、预约续住、&lt;br&gt;预约退房、叫醒服务、&lt;br&gt;预约送站、预约洗衣\&lt;br&gt;呼叫前台等" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-150" y="480" width="200" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="E60OoVWMno9rJtvesI1o-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.875;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="E60OoVWMno9rJtvesI1o-45">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="150" y="610" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="50" y="650" />
+              <mxPoint x="50" y="611" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="E60OoVWMno9rJtvesI1o-45" value="2、入住须知配置：&lt;br&gt;维护客人小程序“我的》入住须知&lt;br&gt;”菜单展示内容" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-230" y="600" width="200" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="E60OoVWMno9rJtvesI1o-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.625;exitY=0.2;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="E60OoVWMno9rJtvesI1o-46" target="E60OoVWMno9rJtvesI1o-32">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="50" y="680" />
+              <mxPoint x="50" y="610" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="E60OoVWMno9rJtvesI1o-46" value="3、站点配置：&lt;br&gt;维护客人小程序“送站预约”功能&lt;br&gt;“到达站点”选项内容，&lt;br&gt;通常是酒店提供&lt;br&gt;班车接送站的站点数据" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-70" y="660" width="200" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
