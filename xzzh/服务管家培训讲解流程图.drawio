@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-19T07:23:50.531Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="JSx2KebfAEHNS59M6Sxx" version="22.1.21" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-19T07:26:13.340Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="J6vw5_rJQe3SUzPH4fBv" version="22.1.21" type="github">
   <diagram name="第 1 页" id="POW11fnQm5mWFkC5Kxqr">
     <mxGraphModel dx="1861" dy="420" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -35,6 +35,9 @@
           <mxGeometry x="600" y="120" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="E60OoVWMno9rJtvesI1o-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="E60OoVWMno9rJtvesI1o-6" target="E60OoVWMno9rJtvesI1o-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="E60OoVWMno9rJtvesI1o-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="E60OoVWMno9rJtvesI1o-6" target="E60OoVWMno9rJtvesI1o-29">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="E60OoVWMno9rJtvesI1o-6" value="数据分析" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -80,6 +83,9 @@
         </mxCell>
         <mxCell id="E60OoVWMno9rJtvesI1o-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.46;entryY=0.016;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="E60OoVWMno9rJtvesI1o-3" target="E60OoVWMno9rJtvesI1o-26">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="E60OoVWMno9rJtvesI1o-29" value="工单整个流程完成后，可在数据统计模块-“住中服务”页面了解查看服务员服务客人的情况、对客服务的超时占比多不多、经常超时的服务是什么服务（具体了解原因与有无解决方案）、呼叫服务经常使用的什么客户端，客人高频需求是什么服务，客人平常催单时间段是哪一个时间段最多（例：5分钟-10分钟）。根据数据给客人打一些标签。做好客人二次入住服务等。" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="790" y="200" width="160" height="210" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
