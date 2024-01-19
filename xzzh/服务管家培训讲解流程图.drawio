@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-19T06:10:51.404Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="6te1DcSUdLBcreJ1A15l" version="22.1.21" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-19T06:14:10.173Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="LqhQ3OeX6RjS3T3kjogb" version="22.1.21" type="github">
   <diagram name="第 1 页" id="POW11fnQm5mWFkC5Kxqr">
     <mxGraphModel dx="1861" dy="420" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -52,8 +52,22 @@
         <mxCell id="E60OoVWMno9rJtvesI1o-17" value="2、员工权限配置：&lt;br&gt;配置员工部门和功能权限、&lt;br&gt;配置服务员服务房间区域&lt;br&gt;" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-260" y="120" width="200" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="E60OoVWMno9rJtvesI1o-19" value="3、服务类型和项目配置：&lt;br&gt;配置酒店对客服务的服务类型和项目" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-280" y="220" width="230" height="120" as="geometry" />
+        <mxCell id="E60OoVWMno9rJtvesI1o-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.625;exitY=0.2;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="E60OoVWMno9rJtvesI1o-19" target="E60OoVWMno9rJtvesI1o-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="30" y="308" />
+              <mxPoint x="30" y="140" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="E60OoVWMno9rJtvesI1o-19" value="4、服务类型和项目配置：&lt;br&gt;配置酒店对客服务的服务类型、&lt;br&gt;配置服务项目、处理部门、&lt;br&gt;绩效、难度、紧急等级、&lt;br&gt;执行流程（默认流程）、&lt;br&gt;限时分钟、积分等信息" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-100" y="280" width="230" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="E60OoVWMno9rJtvesI1o-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.875;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="E60OoVWMno9rJtvesI1o-21" target="E60OoVWMno9rJtvesI1o-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="E60OoVWMno9rJtvesI1o-21" value="3、配置工单自定义流程：&lt;br&gt;根据酒店自身管理配置流程" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-260" y="230" width="200" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
