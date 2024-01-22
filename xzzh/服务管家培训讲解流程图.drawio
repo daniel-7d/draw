@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-22T02:44:55.893Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="ojYe5FyGu5V2v10p1Q4E" version="22.1.21" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-22T02:48:51.462Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="CHsuuOIYY7v4lKdzMCkf" version="22.1.21" type="github">
   <diagram name="第 1 页" id="POW11fnQm5mWFkC5Kxqr">
     <mxGraphModel dx="1861" dy="420" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -155,7 +155,7 @@
         <mxCell id="UiyY9DVSGaTfQ-GsNiVw-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="UiyY9DVSGaTfQ-GsNiVw-8" target="UiyY9DVSGaTfQ-GsNiVw-11">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="UiyY9DVSGaTfQ-GsNiVw-8" value="客人小程序预约" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="UiyY9DVSGaTfQ-GsNiVw-8" value="经理排班" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="200" y="950" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="UiyY9DVSGaTfQ-GsNiVw-9" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;排班清洁&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
@@ -164,13 +164,13 @@
         <mxCell id="UiyY9DVSGaTfQ-GsNiVw-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="UiyY9DVSGaTfQ-GsNiVw-11" target="UiyY9DVSGaTfQ-GsNiVw-13">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="UiyY9DVSGaTfQ-GsNiVw-11" value="前厅人员审核并处理" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="UiyY9DVSGaTfQ-GsNiVw-11" value="清洁分房" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="360" y="950" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="UiyY9DVSGaTfQ-GsNiVw-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="UiyY9DVSGaTfQ-GsNiVw-13" target="UiyY9DVSGaTfQ-GsNiVw-22">
+        <mxCell id="UiyY9DVSGaTfQ-GsNiVw-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="UiyY9DVSGaTfQ-GsNiVw-13" target="UiyY9DVSGaTfQ-GsNiVw-33">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="UiyY9DVSGaTfQ-GsNiVw-13" value="客人预约记录" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="UiyY9DVSGaTfQ-GsNiVw-13" value="服务员清洁" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="520" y="950" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="UiyY9DVSGaTfQ-GsNiVw-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.96;exitY=0.7;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="UiyY9DVSGaTfQ-GsNiVw-15" target="UiyY9DVSGaTfQ-GsNiVw-8">
@@ -192,21 +192,6 @@
         </mxCell>
         <mxCell id="UiyY9DVSGaTfQ-GsNiVw-19" value="3、班次管理菜单：&lt;br&gt;用于维护客房部员工班次管理" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-300" y="940" width="200" height="100" as="geometry" />
-        </mxCell>
-        <mxCell id="UiyY9DVSGaTfQ-GsNiVw-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="UiyY9DVSGaTfQ-GsNiVw-22" target="UiyY9DVSGaTfQ-GsNiVw-23">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="UiyY9DVSGaTfQ-GsNiVw-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="UiyY9DVSGaTfQ-GsNiVw-22" target="UiyY9DVSGaTfQ-GsNiVw-24">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="UiyY9DVSGaTfQ-GsNiVw-22" value="数据分析" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="670" y="950" width="80" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="UiyY9DVSGaTfQ-GsNiVw-23" value="深入了解客人服务诉求" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="830" y="950" width="80" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="UiyY9DVSGaTfQ-GsNiVw-24" value="预约流程完成后，可通过分析预约类型和频次，了解客人更关心哪些服务，进行相关服务的服务加强" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="700" y="1030" width="160" height="100" as="geometry" />
         </mxCell>
         <mxCell id="UiyY9DVSGaTfQ-GsNiVw-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.875;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="UiyY9DVSGaTfQ-GsNiVw-27" target="UiyY9DVSGaTfQ-GsNiVw-8">
           <mxGeometry relative="1" as="geometry">
@@ -240,6 +225,27 @@
         </mxCell>
         <mxCell id="UiyY9DVSGaTfQ-GsNiVw-31" value="6、考核流程管理：&lt;br&gt;用于维护答题模式时使用到哪些&lt;br&gt;检查项目配置" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-40" y="1150" width="200" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="UiyY9DVSGaTfQ-GsNiVw-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="UiyY9DVSGaTfQ-GsNiVw-33" target="UiyY9DVSGaTfQ-GsNiVw-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UiyY9DVSGaTfQ-GsNiVw-33" value="领班查房" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="680" y="950" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="UiyY9DVSGaTfQ-GsNiVw-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="UiyY9DVSGaTfQ-GsNiVw-34" target="UiyY9DVSGaTfQ-GsNiVw-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UiyY9DVSGaTfQ-GsNiVw-34" value="清洁完成" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="840" y="950" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="UiyY9DVSGaTfQ-GsNiVw-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="UiyY9DVSGaTfQ-GsNiVw-35" target="UiyY9DVSGaTfQ-GsNiVw-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UiyY9DVSGaTfQ-GsNiVw-35" value="数据分析" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1000" y="950" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="UiyY9DVSGaTfQ-GsNiVw-36" value="优化运营与管理" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1160.5" y="950" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
