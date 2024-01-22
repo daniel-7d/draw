@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-22T03:32:44.653Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="4QpdpeJtwOxVmTQzUK3f" version="22.1.21" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-22T03:45:19.303Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="Uf4fhxAg4rPE-fWMbfRF" version="22.1.21" type="github">
   <diagram name="第 1 页" id="POW11fnQm5mWFkC5Kxqr">
     <mxGraphModel dx="1861" dy="420" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -246,6 +246,9 @@
         </mxCell>
         <mxCell id="UiyY9DVSGaTfQ-GsNiVw-36" value="优化运营与管理" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1160.5" y="950" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="UiyY9DVSGaTfQ-GsNiVw-41" value="预约流程完成后，可通过分析预约类型和频次，了解客人更关心哪些服务，进行相关服务的服务加强" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="240" y="1069" width="160" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
