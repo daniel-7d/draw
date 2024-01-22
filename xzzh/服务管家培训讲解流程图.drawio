@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-22T02:38:20.609Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="-KP6V8-NCoC8_-hAP0Nh" version="22.1.21" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-22T02:44:55.893Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="ojYe5FyGu5V2v10p1Q4E" version="22.1.21" type="github">
   <diagram name="第 1 页" id="POW11fnQm5mWFkC5Kxqr">
     <mxGraphModel dx="1861" dy="420" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -190,7 +190,7 @@
             <mxPoint x="200" y="970" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="UiyY9DVSGaTfQ-GsNiVw-19" value="3、站点配置：&lt;br&gt;维护客人小程序“送站预约”功能&lt;br&gt;“到达站点”选项内容，&lt;br&gt;通常是酒店提供&lt;br&gt;班车接送站的站点数据" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="UiyY9DVSGaTfQ-GsNiVw-19" value="3、班次管理菜单：&lt;br&gt;用于维护客房部员工班次管理" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-300" y="940" width="200" height="100" as="geometry" />
         </mxCell>
         <mxCell id="UiyY9DVSGaTfQ-GsNiVw-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="UiyY9DVSGaTfQ-GsNiVw-22" target="UiyY9DVSGaTfQ-GsNiVw-23">
@@ -207,6 +207,39 @@
         </mxCell>
         <mxCell id="UiyY9DVSGaTfQ-GsNiVw-24" value="预约流程完成后，可通过分析预约类型和频次，了解客人更关心哪些服务，进行相关服务的服务加强" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="700" y="1030" width="160" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="UiyY9DVSGaTfQ-GsNiVw-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.875;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="UiyY9DVSGaTfQ-GsNiVw-27" target="UiyY9DVSGaTfQ-GsNiVw-8">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="50" y="1080" />
+              <mxPoint x="50" y="970" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UiyY9DVSGaTfQ-GsNiVw-27" value="4、绩效规则配置：&lt;br&gt;用于维护客房部各班次绩效计算&lt;br&gt;提成方式、计件保底数和补贴&lt;br&gt;金额的绩效规则" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-310" y="1030" width="200" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="UiyY9DVSGaTfQ-GsNiVw-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.625;exitY=0.2;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="UiyY9DVSGaTfQ-GsNiVw-29" target="UiyY9DVSGaTfQ-GsNiVw-8">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="50" y="1130" />
+              <mxPoint x="50" y="970" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UiyY9DVSGaTfQ-GsNiVw-29" value="5、考核点管理：&lt;br&gt;用于维护答题模式下检查&lt;br&gt;项目配置。" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-220" y="1110" width="200" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="UiyY9DVSGaTfQ-GsNiVw-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.625;exitY=0.2;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="UiyY9DVSGaTfQ-GsNiVw-31" target="UiyY9DVSGaTfQ-GsNiVw-8">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="90" y="1170" />
+              <mxPoint x="90" y="970" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UiyY9DVSGaTfQ-GsNiVw-31" value="6、考核流程管理：&lt;br&gt;用于维护答题模式时使用到哪些&lt;br&gt;检查项目配置" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-40" y="1150" width="200" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
