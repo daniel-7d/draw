@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-22T06:33:50.660Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="9DKMP-eI4LceCOoB1_gk" version="22.1.21" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-22T06:39:10.161Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="Q6572Do97uAnuyDIHpML" version="22.1.21" type="github">
   <diagram name="第 1 页" id="POW11fnQm5mWFkC5Kxqr">
     <mxGraphModel dx="1861" dy="420" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -153,6 +153,9 @@
           <mxGeometry x="650" y="670" width="160" height="100" as="geometry" />
         </mxCell>
         <mxCell id="UiyY9DVSGaTfQ-GsNiVw-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="UiyY9DVSGaTfQ-GsNiVw-8" target="UiyY9DVSGaTfQ-GsNiVw-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UiyY9DVSGaTfQ-GsNiVw-99" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="UiyY9DVSGaTfQ-GsNiVw-8" target="UiyY9DVSGaTfQ-GsNiVw-98">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="UiyY9DVSGaTfQ-GsNiVw-8" value="客房经理排班" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -414,7 +417,7 @@
         <mxCell id="UiyY9DVSGaTfQ-GsNiVw-94" value="4、布草仓库配置：维护布草&lt;br&gt;仓库信息" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-50" y="1730" width="200" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="UiyY9DVSGaTfQ-GsNiVw-98" value="预约流程完成后，可通过分析预约类型和频次，了解客人更关心哪些服务，进行相关服务的服务加强" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="UiyY9DVSGaTfQ-GsNiVw-98" value="1、在“房间管理”菜单页面将需要打扫的房间标记为脏房&lt;br&gt;2、客房管理员工根据清洁人员的工作时间和休息时间，制定清洁人员的排班表&lt;br&gt;3、在合理的工作量和绩效将房间分配给在班服务员" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="240" y="1040" width="160" height="100" as="geometry" />
         </mxCell>
       </root>
