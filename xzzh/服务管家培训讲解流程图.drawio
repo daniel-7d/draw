@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-25T03:16:05.603Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="EJkNKqPq26Cop_FRIHBF" version="23.0.0" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-25T03:16:22.187Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="B-1MJYg1GOC2NGzEoaYu" version="23.0.0" type="github">
   <diagram name="第 1 页" id="POW11fnQm5mWFkC5Kxqr">
     <mxGraphModel dx="1861" dy="420" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -186,8 +186,13 @@
         <mxCell id="UiyY9DVSGaTfQ-GsNiVw-13" value="服务员清洁" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="520" y="950" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="UiyY9DVSGaTfQ-GsNiVw-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.96;exitY=0.7;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="UiyY9DVSGaTfQ-GsNiVw-15" target="UiyY9DVSGaTfQ-GsNiVw-8" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="BY0rlr-PamsAa_01zsHu-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.8;exitY=0.8;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="UiyY9DVSGaTfQ-GsNiVw-15" target="UiyY9DVSGaTfQ-GsNiVw-8">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="90" y="866" />
+              <mxPoint x="90" y="970" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="UiyY9DVSGaTfQ-GsNiVw-15" value="1、功能配置菜单：包含房态选项设置、清洁类型设置选项设置、&lt;br&gt;打扫房间流程选项设置、&lt;br&gt;查房模式选项设置等" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-85" y="770" width="200" height="120" as="geometry" />
