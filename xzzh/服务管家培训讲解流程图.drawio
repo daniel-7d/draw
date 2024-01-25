@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-25T03:13:05.105Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="CaQ3_VGuDP1JSnW635k3" version="23.0.0" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-25T03:15:54.632Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="tVh7Bu7a3nCFS2nJ_ELM" version="23.0.0" type="github">
   <diagram name="第 1 页" id="POW11fnQm5mWFkC5Kxqr">
     <mxGraphModel dx="1861" dy="420" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -47,7 +47,12 @@
           <mxGeometry x="920" y="120" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="lri-H3QaKZD6PKDHnV52-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.8;exitY=0.8;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="E60OoVWMno9rJtvesI1o-14" target="E60OoVWMno9rJtvesI1o-1" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="30" y="104" />
+              <mxPoint x="30" y="140" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="E60OoVWMno9rJtvesI1o-14" value="1、功能配置：系统派单次数、&lt;br&gt;系统派单等待时间、&lt;br&gt;未接单超时预计时间、&lt;br&gt;每日拒接单上限次数、&lt;br&gt;消息钉钉群配置" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-140" width="200" height="130" as="geometry" />
