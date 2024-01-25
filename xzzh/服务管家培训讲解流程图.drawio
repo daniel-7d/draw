@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-23T06:48:34.093Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="tp3jyrOh-kyVZlBP8sVV" version="22.1.21" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-25T03:12:14.263Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="BKXbuMREZjYpw-fTa-EW" version="23.0.0" type="github">
   <diagram name="第 1 页" id="POW11fnQm5mWFkC5Kxqr">
     <mxGraphModel dx="1861" dy="420" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -46,7 +46,7 @@
         <mxCell id="E60OoVWMno9rJtvesI1o-7" value="提升服务质量" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="920" y="120" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="lri-H3QaKZD6PKDHnV52-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.8;exitY=0.8;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="E60OoVWMno9rJtvesI1o-14" target="E60OoVWMno9rJtvesI1o-1">
+        <mxCell id="lri-H3QaKZD6PKDHnV52-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.8;exitY=0.8;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="E60OoVWMno9rJtvesI1o-14" target="E60OoVWMno9rJtvesI1o-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="E60OoVWMno9rJtvesI1o-14" value="1、功能配置：系统派单次数、&lt;br&gt;系统派单等待时间、&lt;br&gt;未接单超时预计时间、&lt;br&gt;每日拒接单上限次数、&lt;br&gt;消息钉钉群配置" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -318,6 +318,9 @@
         <mxCell id="UiyY9DVSGaTfQ-GsNiVw-71" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="UiyY9DVSGaTfQ-GsNiVw-68" target="UiyY9DVSGaTfQ-GsNiVw-70" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="BY0rlr-PamsAa_01zsHu-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="UiyY9DVSGaTfQ-GsNiVw-68" target="BY0rlr-PamsAa_01zsHu-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="UiyY9DVSGaTfQ-GsNiVw-68" value="数据分析" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1160.5" y="1440" width="80" height="40" as="geometry" />
         </mxCell>
@@ -365,6 +368,9 @@
           <mxGeometry x="680" y="1640" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="UiyY9DVSGaTfQ-GsNiVw-87" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="UiyY9DVSGaTfQ-GsNiVw-84" target="UiyY9DVSGaTfQ-GsNiVw-86" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BY0rlr-PamsAa_01zsHu-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="UiyY9DVSGaTfQ-GsNiVw-84" target="BY0rlr-PamsAa_01zsHu-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="UiyY9DVSGaTfQ-GsNiVw-84" value="数据分析" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -419,6 +425,12 @@
         </mxCell>
         <mxCell id="UiyY9DVSGaTfQ-GsNiVw-98" value="1、在“房间管理”菜单页面将需要打扫的房间标记为脏房&lt;br&gt;2、客房管理员工根据清洁人员的工作时间和休息时间，制定清洁人员的排班表&lt;br&gt;3、在合理的工作量和绩效将房间分配给在班服务员" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="240" y="1040" width="160" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="BY0rlr-PamsAa_01zsHu-1" value="清洁查房完成后可在“清洁查房”页面，了解服务员清洁一次性通过率、清洁率。" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1200" y="1520" width="160" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="BY0rlr-PamsAa_01zsHu-3" value="每日可在“布草统计页面”，了解布草每日替换数量排行、报废项目占比、返洗数量排行、干净布草出库数量、脏布草入库数量（开发中）、时间段报废数量与登记数量对比（开发中）" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="870" y="1720" width="160" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
