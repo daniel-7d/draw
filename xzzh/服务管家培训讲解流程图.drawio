@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-25T03:15:54.632Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="tVh7Bu7a3nCFS2nJ_ELM" version="23.0.0" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-25T03:16:05.603Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="EJkNKqPq26Cop_FRIHBF" version="23.0.0" type="github">
   <diagram name="第 1 页" id="POW11fnQm5mWFkC5Kxqr">
     <mxGraphModel dx="1861" dy="420" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -114,7 +114,12 @@
           <mxGeometry x="470" y="590" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="E60OoVWMno9rJtvesI1o-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.96;exitY=0.7;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="E60OoVWMno9rJtvesI1o-43" target="E60OoVWMno9rJtvesI1o-32" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="50" y="571" />
+              <mxPoint x="50" y="610" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="E60OoVWMno9rJtvesI1o-43" value="1、小程序预约服务配置：&lt;br&gt;目前支持的预约服务有&lt;br&gt;预约开票、预约续住、&lt;br&gt;预约退房、叫醒服务、&lt;br&gt;预约送站、预约洗衣\&lt;br&gt;呼叫前台等" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-150" y="480" width="200" height="130" as="geometry" />
