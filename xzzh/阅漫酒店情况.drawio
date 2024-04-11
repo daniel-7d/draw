@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-11T11:45:59.016Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="hCG-19mq01KyLrACrFmL" version="24.0.7" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-11T11:59:10.621Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="U5gB9HjUwz3d1l5ZDwNi" version="24.0.7" type="github">
   <diagram name="第 1 页" id="nli2a0px7a5wHF4IWzWp">
     <mxGraphModel dx="794" dy="454" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -25,7 +25,7 @@
         <mxCell id="gSZpst11bAa-ROfK7w65-7" value="1安保" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="770" y="190" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="gSZpst11bAa-ROfK7w65-8" value="所有人员4天假，厨师原则只能休下午，客房主管和店长不能同时休假，客房服务员之间不能同时休假，前厅俩班倒白班和夜班，早8点晚7点。客房早8点晚不定（做完为止）默认6点。客房主管会分配，原则同一楼层，1周换一次，查房是2个人检查权限，客房主管查、主管不在店长必查，客房主管在店长抽查。10间是保底。超过5块一间。钟点房。退房后前台对讲机通知。清洁接单后店长、主管都需要知道。客人等待时会催做，(赶房)。前台会催房间做好没有。做好后有个检查的操作，检查也需要及时通知到主管。检查好后需要及时通知到前台。" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="gSZpst11bAa-ROfK7w65-8" value="所有人员4天假，厨师原则只能休下午，客房主管和店长不能同时休假，客房服务员之间不能同时休假，前厅俩班倒白班和夜班，早8点晚7点。客房早8点晚不定（做完为止）默认6点。客房主管会分配，原则同一楼层，1周换一次，查房是2个人检查权限，客房主管查、主管不在店长必查，客房主管在店长抽查。10间是保底。超过5块一间。钟点房。退房后前台对讲机通知。清洁接单后店长、主管都需要知道。客人等待时会催做，(赶房)。前台会催房间做好没有。做好后有个检查的操作，检查也需要及时通知到主管。检查好后需要及时通知到前台。非电气设备异常。" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="550" y="30" width="560" height="140" as="geometry" />
         </mxCell>
       </root>
