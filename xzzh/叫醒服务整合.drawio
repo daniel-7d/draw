@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-27T09:42:18.845Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="xMmFvNjhzIkyAF_Cpt3N" version="24.4.4" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-27T09:43:15.848Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="5_0EiT3wkHxGlLPZ_dUA" version="24.4.4" type="github">
   <diagram name="第 1 页" id="sBmbsKwwdY_jyeglFu8v">
     <mxGraphModel dx="794" dy="454" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -25,8 +25,8 @@
         <mxCell id="-vvbk8NQpzLYk57_HcCM-4" value="前厅预约审核" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="280" y="280" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="-vvbk8NQpzLYk57_HcCM-8" value="预约" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="354" y="170" width="60" height="30" as="geometry" />
+        <mxCell id="-vvbk8NQpzLYk57_HcCM-8" value="预约 |&amp;nbsp; 取消预约" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="354" y="170" width="106" height="30" as="geometry" />
         </mxCell>
         <mxCell id="-vvbk8NQpzLYk57_HcCM-9" value="判断叫醒时间是否是入住期间内" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="354" y="230" width="196" height="30" as="geometry" />
