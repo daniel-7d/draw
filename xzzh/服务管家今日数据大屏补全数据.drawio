@@ -58,7 +58,7 @@
             <mxPoint x="320" y="360" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="fC3G323dH9RH2aXDCVsZ-17" value="tabe切换" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="fC3G323dH9RH2aXDCVsZ-17" value="tabe切换或详情点击" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="250" y="270" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="fC3G323dH9RH2aXDCVsZ-19" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
