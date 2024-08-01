@@ -94,6 +94,12 @@
         <mxCell id="fC3G323dH9RH2aXDCVsZ-31" value="占比" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="140" y="510" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="aOTZ8ygsaZMMAjQkS0gH-1" value="1、同时接取多个工单，不同时间完成" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="620" y="180" width="130" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="aOTZ8ygsaZMMAjQkS0gH-2" value="2、一个清洁任务还没完成，又开始优先多个赶房任务" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="620" y="250" width="130" height="50" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
