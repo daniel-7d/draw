@@ -100,6 +100,12 @@
         <mxCell id="aOTZ8ygsaZMMAjQkS0gH-2" value="2、一个清洁任务还没完成，又开始优先多个赶房任务" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="620" y="250" width="130" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="aOTZ8ygsaZMMAjQkS0gH-3" value="清洁任务增加换布草标识" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="50" y="730" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="aOTZ8ygsaZMMAjQkS0gH-4" value="清洁任务增加换布草标识" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="155" y="730" width="70" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
