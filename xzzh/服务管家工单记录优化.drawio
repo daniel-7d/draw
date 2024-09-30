@@ -1,9 +1,66 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36" version="24.7.7">
   <diagram name="第 1 页" id="88uFfuZkTPJbKX7Ub5X4">
-    <mxGraphModel>
+    <mxGraphModel dx="794" dy="454" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="CnCfioJ91DQJozxlzagj-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="CnCfioJ91DQJozxlzagj-1" target="CnCfioJ91DQJozxlzagj-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CnCfioJ91DQJozxlzagj-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="CnCfioJ91DQJozxlzagj-1" target="CnCfioJ91DQJozxlzagj-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CnCfioJ91DQJozxlzagj-1" value="客人（电视）下单&lt;div&gt;下单时间&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CnCfioJ91DQJozxlzagj-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="CnCfioJ91DQJozxlzagj-2" target="CnCfioJ91DQJozxlzagj-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CnCfioJ91DQJozxlzagj-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="CnCfioJ91DQJozxlzagj-2" target="CnCfioJ91DQJozxlzagj-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CnCfioJ91DQJozxlzagj-2" value="默认派单给李服务&lt;div&gt;派单时间&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CnCfioJ91DQJozxlzagj-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="CnCfioJ91DQJozxlzagj-4" target="CnCfioJ91DQJozxlzagj-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CnCfioJ91DQJozxlzagj-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="CnCfioJ91DQJozxlzagj-4" target="CnCfioJ91DQJozxlzagj-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CnCfioJ91DQJozxlzagj-4" value="李服务接单&lt;div&gt;接单时间&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="490" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CnCfioJ91DQJozxlzagj-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="CnCfioJ91DQJozxlzagj-6" target="CnCfioJ91DQJozxlzagj-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CnCfioJ91DQJozxlzagj-6" value="&lt;div&gt;李服务开始工单&lt;/div&gt;&lt;div&gt;开始时间&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="700" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CnCfioJ91DQJozxlzagj-7" value="&lt;div&gt;李服务完成工单&lt;/div&gt;&lt;div&gt;完成时间&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="910" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CnCfioJ91DQJozxlzagj-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.572;entryY=0.011;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="CnCfioJ91DQJozxlzagj-6" target="CnCfioJ91DQJozxlzagj-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CnCfioJ91DQJozxlzagj-10" value="完成耗时" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="840" y="180" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="CnCfioJ91DQJozxlzagj-13" value="开始耗时" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="620" y="180" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="CnCfioJ91DQJozxlzagj-15" value="接单耗时" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="270" y="180" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="CnCfioJ91DQJozxlzagj-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="CnCfioJ91DQJozxlzagj-17" target="CnCfioJ91DQJozxlzagj-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CnCfioJ91DQJozxlzagj-17" value="张主管(主管)派单给李服务(服务员)&lt;div&gt;派单时间&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="490" y="570" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CnCfioJ91DQJozxlzagj-19" value="接单超时" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="390" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
