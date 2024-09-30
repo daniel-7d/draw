@@ -56,10 +56,30 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="CnCfioJ91DQJozxlzagj-17" value="张主管(主管)派单给李服务(服务员)&lt;div&gt;派单时间&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="490" y="570" width="120" height="60" as="geometry" />
+          <mxGeometry x="490" y="525" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="CnCfioJ91DQJozxlzagj-19" value="接单超时" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="CnCfioJ91DQJozxlzagj-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="CnCfioJ91DQJozxlzagj-19" target="CnCfioJ91DQJozxlzagj-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CnCfioJ91DQJozxlzagj-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="CnCfioJ91DQJozxlzagj-19">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="340" y="520" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CnCfioJ91DQJozxlzagj-19" value="接单超时系统转派到工单大厅&lt;div&gt;派单时间&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="280" y="390" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CnCfioJ91DQJozxlzagj-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="CnCfioJ91DQJozxlzagj-24" target="CnCfioJ91DQJozxlzagj-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CnCfioJ91DQJozxlzagj-24" value="李服务接单&lt;div&gt;接单时间&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="490" y="390" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CnCfioJ91DQJozxlzagj-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="CnCfioJ91DQJozxlzagj-27" target="CnCfioJ91DQJozxlzagj-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CnCfioJ91DQJozxlzagj-27" value="接单超时系统预警给张主管&lt;div&gt;预警时间&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="525" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
