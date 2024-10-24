@@ -1,9 +1,99 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36" version="24.7.16">
   <diagram name="第 1 页" id="obWlevFwds53lfumDKj4">
-    <mxGraphModel>
+    <mxGraphModel dx="794" dy="454" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="yzvjMjl5helgi7MZ5Mqz-1" value="" style="line;strokeWidth=4;html=1;perimeter=backbonePerimeter;points=[];outlineConnect=0;strokeColor=#B3B3B3;" vertex="1" parent="1">
+          <mxGeometry x="230" y="150" width="120" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="yzvjMjl5helgi7MZ5Mqz-2" value="&lt;font style=&quot;font-size: 19px;&quot;&gt;工单耗时流程闭环图：&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="10" y="140" width="210" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="yzvjMjl5helgi7MZ5Mqz-3" value="工单耗时流程闭环图：" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="220" y="40" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="yzvjMjl5helgi7MZ5Mqz-4" value="" style="line;strokeWidth=4;html=1;perimeter=backbonePerimeter;points=[];outlineConnect=0;strokeColor=#82b366;fillColor=#d5e8d4;" vertex="1" parent="1">
+          <mxGeometry x="350" y="150" width="120" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="yzvjMjl5helgi7MZ5Mqz-5" value="接单|抢单耗时" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="460" y="130" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="yzvjMjl5helgi7MZ5Mqz-6" value="开始耗时" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="590" y="130" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="yzvjMjl5helgi7MZ5Mqz-7" value="转抢单大厅耗时" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="230" y="130" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="yzvjMjl5helgi7MZ5Mqz-8" value="未接单超时上报耗时" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="350" y="130" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="yzvjMjl5helgi7MZ5Mqz-9" value="未完成超时" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="702" y="130" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="yzvjMjl5helgi7MZ5Mqz-10" value="" style="line;strokeWidth=4;html=1;perimeter=backbonePerimeter;points=[];outlineConnect=0;strokeColor=#d6b656;fillColor=#fff2cc;" vertex="1" parent="1">
+          <mxGeometry x="470" y="150" width="120" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="yzvjMjl5helgi7MZ5Mqz-11" value="" style="line;strokeWidth=4;html=1;perimeter=backbonePerimeter;points=[];outlineConnect=0;strokeColor=#6c8ebf;fillColor=#dae8fc;" vertex="1" parent="1">
+          <mxGeometry x="590" y="150" width="120" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="yzvjMjl5helgi7MZ5Mqz-12" value="" style="line;strokeWidth=4;html=1;perimeter=backbonePerimeter;points=[];outlineConnect=0;strokeColor=#A50040;fillColor=#d80073;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="707" y="150" width="120" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="yzvjMjl5helgi7MZ5Mqz-14" value="&lt;font style=&quot;font-size: 19px;&quot;&gt;工单轨迹流程闭环图：&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="10" y="280" width="210" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="yzvjMjl5helgi7MZ5Mqz-16" value="" style="line;strokeWidth=2;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="290" width="570" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="yzvjMjl5helgi7MZ5Mqz-17" value="" style="shape=waypoint;sketch=0;fillStyle=solid;size=6;pointerEvents=1;points=[];fillColor=#dae8fc;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;strokeWidth=5;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="230" y="285" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="yzvjMjl5helgi7MZ5Mqz-19" value="" style="shape=waypoint;sketch=0;fillStyle=solid;size=6;pointerEvents=1;points=[];fillColor=#dae8fc;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;strokeWidth=5;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="350" y="285" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="yzvjMjl5helgi7MZ5Mqz-21" value="" style="shape=waypoint;sketch=0;fillStyle=solid;size=6;pointerEvents=1;points=[];fillColor=#dae8fc;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;strokeWidth=5;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="460" y="285" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="yzvjMjl5helgi7MZ5Mqz-22" value="" style="shape=waypoint;sketch=0;fillStyle=solid;size=6;pointerEvents=1;points=[];fillColor=#dae8fc;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;strokeWidth=5;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="550" y="285" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="yzvjMjl5helgi7MZ5Mqz-23" value="" style="shape=waypoint;sketch=0;fillStyle=solid;size=6;pointerEvents=1;points=[];fillColor=#dae8fc;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;strokeWidth=5;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="610" y="285" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="yzvjMjl5helgi7MZ5Mqz-24" value="" style="shape=waypoint;sketch=0;fillStyle=solid;size=6;pointerEvents=1;points=[];fillColor=#dae8fc;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;strokeWidth=5;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="695" y="285" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="yzvjMjl5helgi7MZ5Mqz-25" value="" style="shape=waypoint;sketch=0;fillStyle=solid;size=6;pointerEvents=1;points=[];fillColor=#dae8fc;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;strokeWidth=5;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="800" y="285" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="yzvjMjl5helgi7MZ5Mqz-26" value="客人下单(电视)：送水x1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="170" y="255" width="145" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="yzvjMjl5helgi7MZ5Mqz-27" value="" style="shape=waypoint;sketch=0;fillStyle=solid;size=6;pointerEvents=1;points=[];fillColor=#dae8fc;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;strokeWidth=5;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="250" y="285" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="yzvjMjl5helgi7MZ5Mqz-28" value="系统派单给张三服务员" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="195" y="305" width="145" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="yzvjMjl5helgi7MZ5Mqz-29" value="张三未结单进入抢单大厅" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="315" y="255" width="145" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="yzvjMjl5helgi7MZ5Mqz-30" value="未结单超时预警上报给王五主管" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="397.5" y="320" width="145" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="yzvjMjl5helgi7MZ5Mqz-31" value="王五主管派单给李四服务员" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="487.5" y="255" width="145" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="yzvjMjl5helgi7MZ5Mqz-32" value="李四开始工单" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="550" y="310" width="145" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="yzvjMjl5helgi7MZ5Mqz-33" value="工单未完成超时上报给王五主管" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="655" y="260" width="145" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="yzvjMjl5helgi7MZ5Mqz-34" value="李四完成工单" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="750" y="310" width="145" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
