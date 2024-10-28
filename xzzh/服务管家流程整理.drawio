@@ -272,6 +272,9 @@
         <mxCell id="tDMkqELr2ya7yGN_-XLU-12" value="需要清洁" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="175" y="1330" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="tDMkqELr2ya7yGN_-XLU-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="tDMkqELr2ya7yGN_-XLU-14" target="tDMkqELr2ya7yGN_-XLU-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="tDMkqELr2ya7yGN_-XLU-14" value="转给服务人员清洁" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="115" y="1390" width="120" height="60" as="geometry" />
         </mxCell>
@@ -280,6 +283,12 @@
         </mxCell>
         <mxCell id="tDMkqELr2ya7yGN_-XLU-16" value="完成清洁" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="300" y="1390" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="tDMkqELr2ya7yGN_-XLU-18" value="数据呈现" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="115" y="1520" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tDMkqELr2ya7yGN_-XLU-20" value="记录各个环节数据与真实需要清洁的原因进行分析" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="180" y="1470" width="120" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
