@@ -302,6 +302,21 @@
         <mxCell id="JV9mWkTR-LQPT0FHHh7m-6" value="pms置为干净房耗时" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="847" y="555" width="113" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="JV9mWkTR-LQPT0FHHh7m-7" value="" style="shape=sumEllipse;perimeter=ellipsePerimeter;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="565" y="1210" width="195" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="JV9mWkTR-LQPT0FHHh7m-8" value="误按 13%" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="630" y="1230" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="JV9mWkTR-LQPT0FHHh7m-9" value="催促 26%" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="695" y="1290" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="JV9mWkTR-LQPT0FHHh7m-10" value="客人弄脏 36%" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="632.5" y="1350" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="JV9mWkTR-LQPT0FHHh7m-11" value="服务员未打扫干净 36%" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="572.5" y="1290" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
