@@ -323,8 +323,8 @@
         <mxCell id="JV9mWkTR-LQPT0FHHh7m-14" value="存在现象：今天打扫完时租房，第二天才补录打扫数据,增加配置，根据酒店要求在录入时租房打扫任务时进行操作的条件验证，不满足条件不能添加" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="40" y="556" width="120" height="104" as="geometry" />
         </mxCell>
-        <mxCell id="JV9mWkTR-LQPT0FHHh7m-15" value="判断进出客房耗时在真实场景下数据无法准确。客人退房后，门是开的，服务员可能不插卡，打扫完后，门也不会关。目前方案，判断到插卡事件且身份为服务员时，音箱进行提醒，无法确认服务员进客房是否是为了打扫" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="950" y="610" width="150" height="130" as="geometry" />
+        <mxCell id="JV9mWkTR-LQPT0FHHh7m-15" value="判断进出客房耗时在真实场景下数据无法准确。客人退房后，门是开的，服务员可能不插卡，打扫完后，门也不会关。目前方案，判断到插卡事件且身份为服务员时，音箱进行提醒，无法确认服务员进客房是否是为了打扫,存在现象：先进房间看一遍哪些房间好打扫" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="950" y="610" width="160" height="160" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
