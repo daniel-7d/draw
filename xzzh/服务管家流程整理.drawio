@@ -44,7 +44,7 @@
           <mxGeometry x="707" y="150" width="120" height="10" as="geometry" />
         </mxCell>
         <mxCell id="yzvjMjl5helgi7MZ5Mqz-14" value="&lt;font style=&quot;font-size: 19px;&quot;&gt;工单项目轨迹流程闭环图：&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="5" y="280" width="210" height="30" as="geometry" />
+          <mxGeometry y="280" width="210" height="30" as="geometry" />
         </mxCell>
         <mxCell id="yzvjMjl5helgi7MZ5Mqz-16" value="" style="line;strokeWidth=2;html=1;" parent="1" vertex="1">
           <mxGeometry x="240" y="290" width="570" height="10" as="geometry" />
