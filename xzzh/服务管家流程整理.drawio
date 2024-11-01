@@ -317,7 +317,7 @@
         <mxCell id="JV9mWkTR-LQPT0FHHh7m-11" value="服务员未打扫干净 36%" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="572.5" y="1290" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="JV9mWkTR-LQPT0FHHh7m-13" value="电视、音箱端发起清洁，&lt;div&gt;方案1：和面板流程一致&lt;/div&gt;&lt;div&gt;方案2:扫码转到客人小程序提交&lt;/div&gt;&lt;div&gt;方案3：直接提交直接生成清洁工单&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="JV9mWkTR-LQPT0FHHh7m-13" value="电视、音箱端发起清洁，&lt;div&gt;方案1：和清洁面板流程一致&lt;/div&gt;&lt;div&gt;方案2:扫码转到客人小程序提交&lt;/div&gt;&lt;div&gt;方案3：直接提交直接生成清洁工单&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="397.5" y="1440" width="240" height="100" as="geometry" />
         </mxCell>
       </root>
