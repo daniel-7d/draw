@@ -160,14 +160,8 @@
         <mxCell id="yzvjMjl5helgi7MZ5Mqz-56" value="" style="shape=waypoint;sketch=0;fillStyle=solid;size=6;pointerEvents=1;points=[];fillColor=#dae8fc;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;strokeWidth=5;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="690" y="720" width="20" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="yzvjMjl5helgi7MZ5Mqz-57" value="清洁分房" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="185" y="695" width="80" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="yzvjMjl5helgi7MZ5Mqz-58" value="" style="shape=waypoint;sketch=0;fillStyle=solid;size=6;pointerEvents=1;points=[];fillColor=#dae8fc;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;strokeWidth=5;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="245" y="720" width="20" height="20" as="geometry" />
-        </mxCell>
         <mxCell id="yzvjMjl5helgi7MZ5Mqz-59" value="客人退房" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="230" y="740" width="70" height="30" as="geometry" />
+          <mxGeometry x="220" y="740" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="yzvjMjl5helgi7MZ5Mqz-60" value="张三开始打扫" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="317.5" y="695" width="80" height="30" as="geometry" />
