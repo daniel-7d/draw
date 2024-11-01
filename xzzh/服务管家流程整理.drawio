@@ -296,6 +296,18 @@
         <mxCell id="JV9mWkTR-LQPT0FHHh7m-2" value="客房无人耗时" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="349" y="560" width="130" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="JV9mWkTR-LQPT0FHHh7m-3" value="" style="line;strokeWidth=4;html=1;perimeter=backbonePerimeter;points=[];outlineConnect=0;strokeColor=#6c8ebf;fillColor=#dae8fc;" vertex="1" parent="1">
+          <mxGeometry x="827" y="580" width="120" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="JV9mWkTR-LQPT0FHHh7m-4" value="" style="line;strokeWidth=4;html=1;perimeter=backbonePerimeter;points=[];outlineConnect=0;strokeColor=#6c8ebf;fillColor=#dae8fc;" vertex="1" parent="1">
+          <mxGeometry x="830" y="470" width="120" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="JV9mWkTR-LQPT0FHHh7m-5" value="pms置为干净房耗时" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="847" y="450" width="113" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="JV9mWkTR-LQPT0FHHh7m-6" value="pms置为干净房耗时" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="847" y="555" width="113" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
