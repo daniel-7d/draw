@@ -8,7 +8,7 @@
           <mxGeometry x="140" y="100" width="290" height="520" as="geometry" />
         </mxCell>
         <mxCell id="677b7b8949515195-16" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.graphics.simpleIcon;strokeColor=#999999;rounded=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=14;fontColor=#000000;comic=1;" parent="1" vertex="1">
-          <mxGeometry x="550" y="590" width="160" height="90" as="geometry" />
+          <mxGeometry x="390" y="700" width="160" height="90" as="geometry" />
         </mxCell>
         <mxCell id="677b7b8949515195-26" value="" style="whiteSpace=wrap;html=1;rounded=0;shadow=0;labelBackgroundColor=none;strokeWidth=1;fillColor=none;fontFamily=Verdana;fontSize=12;align=center;comic=1;" parent="1" vertex="1">
           <mxGeometry x="160" y="130" width="190" height="50" as="geometry" />
@@ -26,7 +26,7 @@
           <mxGeometry x="170" y="145" width="170" height="20" as="geometry" />
         </mxCell>
         <mxCell id="IsQN9QvUP5Gz4JQWrJj--4" value="External Links" style="text;html=1;points=[];align=left;verticalAlign=top;spacingTop=-4;fontSize=14;fontFamily=Verdana" vertex="1" parent="1">
-          <mxGeometry x="520" y="495" width="170" height="20" as="geometry" />
+          <mxGeometry x="200" y="770" width="170" height="20" as="geometry" />
         </mxCell>
         <mxCell id="IsQN9QvUP5Gz4JQWrJj--5" value="预退房清洁房间列表" style="text;html=1;points=[];align=left;verticalAlign=top;spacingTop=-4;fontSize=14;fontFamily=Verdana" vertex="1" parent="1">
           <mxGeometry x="170" y="220" width="170" height="20" as="geometry" />
@@ -39,6 +39,42 @@
         </mxCell>
         <mxCell id="IsQN9QvUP5Gz4JQWrJj--10" value="������" style="text;fontSize=30;textOpacity=40;" vertex="1" parent="1">
           <mxGeometry x="380" y="130" width="40" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="IsQN9QvUP5Gz4JQWrJj--11" value="" style="whiteSpace=wrap;html=1;rounded=0;shadow=0;labelBackgroundColor=none;strokeWidth=1;fillColor=none;fontFamily=Verdana;fontSize=12;align=center;comic=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="110" width="290" height="520" as="geometry" />
+        </mxCell>
+        <mxCell id="IsQN9QvUP5Gz4JQWrJj--12" value="" style="whiteSpace=wrap;html=1;rounded=0;shadow=0;labelBackgroundColor=none;strokeWidth=1;fillColor=none;fontFamily=Verdana;fontSize=12;align=center;comic=1;" vertex="1" parent="1">
+          <mxGeometry x="580" y="140" width="190" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="IsQN9QvUP5Gz4JQWrJj--13" value="待完成工单列表" style="text;html=1;points=[];align=left;verticalAlign=top;spacingTop=-4;fontSize=14;fontFamily=Verdana" vertex="1" parent="1">
+          <mxGeometry x="590" y="435" width="170" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="IsQN9QvUP5Gz4JQWrJj--14" value="" style="whiteSpace=wrap;html=1;rounded=0;shadow=0;labelBackgroundColor=none;strokeWidth=1;fillColor=none;fontFamily=Verdana;fontSize=12;align=center;comic=1;" vertex="1" parent="1">
+          <mxGeometry x="582.5" y="420" width="235" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="IsQN9QvUP5Gz4JQWrJj--15" value="" style="whiteSpace=wrap;html=1;rounded=0;shadow=0;labelBackgroundColor=none;strokeWidth=1;fillColor=none;fontFamily=Verdana;fontSize=12;align=center;comic=1;" vertex="1" parent="1">
+          <mxGeometry x="580" y="210" width="240" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="IsQN9QvUP5Gz4JQWrJj--16" value="当前或下一个待办工单" style="text;html=1;points=[];align=left;verticalAlign=top;spacingTop=-4;fontSize=14;fontFamily=Verdana" vertex="1" parent="1">
+          <mxGeometry x="590" y="155" width="170" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="IsQN9QvUP5Gz4JQWrJj--17" value="待接单任务列表" style="text;html=1;points=[];align=left;verticalAlign=top;spacingTop=-4;fontSize=14;fontFamily=Verdana" vertex="1" parent="1">
+          <mxGeometry x="590" y="230" width="170" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="IsQN9QvUP5Gz4JQWrJj--18" value="2" style="text;html=1;points=[];align=left;verticalAlign=top;spacingTop=-4;fontSize=14;fontFamily=Verdana" vertex="1" parent="1">
+          <mxGeometry x="810" y="150" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="IsQN9QvUP5Gz4JQWrJj--19" value="工单任务" style="text;html=1;points=[];align=left;verticalAlign=top;spacingTop=-4;fontSize=14;fontFamily=Verdana" vertex="1" parent="1">
+          <mxGeometry x="570" y="60" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="IsQN9QvUP5Gz4JQWrJj--20" value="������" style="text;fontSize=30;textOpacity=40;" vertex="1" parent="1">
+          <mxGeometry x="800" y="140" width="40" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="IsQN9QvUP5Gz4JQWrJj--21" value="待处理工单" style="text;html=1;points=[];align=left;verticalAlign=top;spacingTop=-4;fontSize=14;fontFamily=Verdana" vertex="1" parent="1">
+          <mxGeometry x="430" y="145" width="80" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="IsQN9QvUP5Gz4JQWrJj--22" value="待清洁房间" style="text;html=1;points=[];align=left;verticalAlign=top;spacingTop=-4;fontSize=14;fontFamily=Verdana" vertex="1" parent="1">
+          <mxGeometry x="860" y="155" width="90" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
