@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="24.8.6">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="26.0.3">
   <diagram name="Page-1" id="03018318-947c-dd8e-b7a3-06fadd420f32">
     <mxGraphModel dx="794" dy="454" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
       <root>
@@ -16,76 +16,70 @@
         <mxCell id="677b7b8949515195-42" value="续住房待清洁列表" style="text;html=1;points=[];align=left;verticalAlign=top;spacingTop=-4;fontSize=14;fontFamily=Verdana" parent="1" vertex="1">
           <mxGeometry x="170" y="425" width="170" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="IsQN9QvUP5Gz4JQWrJj--1" value="" style="whiteSpace=wrap;html=1;rounded=0;shadow=0;labelBackgroundColor=none;strokeWidth=1;fillColor=none;fontFamily=Verdana;fontSize=12;align=center;comic=1;" vertex="1" parent="1">
+        <mxCell id="IsQN9QvUP5Gz4JQWrJj--1" value="" style="whiteSpace=wrap;html=1;rounded=0;shadow=0;labelBackgroundColor=none;strokeWidth=1;fillColor=none;fontFamily=Verdana;fontSize=12;align=center;comic=1;" parent="1" vertex="1">
           <mxGeometry x="165" y="410" width="235" height="190" as="geometry" />
         </mxCell>
-        <mxCell id="IsQN9QvUP5Gz4JQWrJj--2" value="" style="whiteSpace=wrap;html=1;rounded=0;shadow=0;labelBackgroundColor=none;strokeWidth=1;fillColor=none;fontFamily=Verdana;fontSize=12;align=center;comic=1;" vertex="1" parent="1">
+        <mxCell id="IsQN9QvUP5Gz4JQWrJj--2" value="" style="whiteSpace=wrap;html=1;rounded=0;shadow=0;labelBackgroundColor=none;strokeWidth=1;fillColor=none;fontFamily=Verdana;fontSize=12;align=center;comic=1;" parent="1" vertex="1">
           <mxGeometry x="160" y="200" width="240" height="190" as="geometry" />
         </mxCell>
-        <mxCell id="IsQN9QvUP5Gz4JQWrJj--3" value="当前或下一个待清洁房间" style="text;html=1;points=[];align=left;verticalAlign=top;spacingTop=-4;fontSize=14;fontFamily=Verdana" vertex="1" parent="1">
+        <mxCell id="IsQN9QvUP5Gz4JQWrJj--3" value="当前或下一个待清洁房间" style="text;html=1;points=[];align=left;verticalAlign=top;spacingTop=-4;fontSize=14;fontFamily=Verdana" parent="1" vertex="1">
           <mxGeometry x="170" y="145" width="170" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="IsQN9QvUP5Gz4JQWrJj--4" value="External Links" style="text;html=1;points=[];align=left;verticalAlign=top;spacingTop=-4;fontSize=14;fontFamily=Verdana" vertex="1" parent="1">
+        <mxCell id="IsQN9QvUP5Gz4JQWrJj--4" value="External Links" style="text;html=1;points=[];align=left;verticalAlign=top;spacingTop=-4;fontSize=14;fontFamily=Verdana" parent="1" vertex="1">
           <mxGeometry x="500" y="720" width="170" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="IsQN9QvUP5Gz4JQWrJj--5" value="预退房清洁房间列表" style="text;html=1;points=[];align=left;verticalAlign=top;spacingTop=-4;fontSize=14;fontFamily=Verdana" vertex="1" parent="1">
+        <mxCell id="IsQN9QvUP5Gz4JQWrJj--5" value="预退房清洁房间列表" style="text;html=1;points=[];align=left;verticalAlign=top;spacingTop=-4;fontSize=14;fontFamily=Verdana" parent="1" vertex="1">
           <mxGeometry x="170" y="220" width="170" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="IsQN9QvUP5Gz4JQWrJj--7" value="2" style="text;html=1;points=[];align=left;verticalAlign=top;spacingTop=-4;fontSize=14;fontFamily=Verdana" vertex="1" parent="1">
+        <mxCell id="IsQN9QvUP5Gz4JQWrJj--7" value="2" style="text;html=1;points=[];align=left;verticalAlign=top;spacingTop=-4;fontSize=14;fontFamily=Verdana" parent="1" vertex="1">
           <mxGeometry x="390" y="140" width="20" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="IsQN9QvUP5Gz4JQWrJj--9" value="分房清洁任务" style="text;html=1;points=[];align=left;verticalAlign=top;spacingTop=-4;fontSize=14;fontFamily=Verdana" vertex="1" parent="1">
+        <mxCell id="IsQN9QvUP5Gz4JQWrJj--9" value="分房清洁任务" style="text;html=1;points=[];align=left;verticalAlign=top;spacingTop=-4;fontSize=14;fontFamily=Verdana" parent="1" vertex="1">
           <mxGeometry x="140" y="10" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="IsQN9QvUP5Gz4JQWrJj--10" value="������" style="text;fontSize=30;textOpacity=40;" vertex="1" parent="1">
-          <mxGeometry x="380" y="130" width="40" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="IsQN9QvUP5Gz4JQWrJj--11" value="" style="whiteSpace=wrap;html=1;rounded=0;shadow=0;labelBackgroundColor=none;strokeWidth=1;fillColor=none;fontFamily=Verdana;fontSize=12;align=center;comic=1;" vertex="1" parent="1">
+        <mxCell id="IsQN9QvUP5Gz4JQWrJj--11" value="" style="whiteSpace=wrap;html=1;rounded=0;shadow=0;labelBackgroundColor=none;strokeWidth=1;fillColor=none;fontFamily=Verdana;fontSize=12;align=center;comic=1;" parent="1" vertex="1">
           <mxGeometry x="560" y="110" width="290" height="520" as="geometry" />
         </mxCell>
-        <mxCell id="IsQN9QvUP5Gz4JQWrJj--12" value="" style="whiteSpace=wrap;html=1;rounded=0;shadow=0;labelBackgroundColor=none;strokeWidth=1;fillColor=none;fontFamily=Verdana;fontSize=12;align=center;comic=1;" vertex="1" parent="1">
+        <mxCell id="IsQN9QvUP5Gz4JQWrJj--12" value="" style="whiteSpace=wrap;html=1;rounded=0;shadow=0;labelBackgroundColor=none;strokeWidth=1;fillColor=none;fontFamily=Verdana;fontSize=12;align=center;comic=1;" parent="1" vertex="1">
           <mxGeometry x="580" y="140" width="190" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="IsQN9QvUP5Gz4JQWrJj--13" value="待完成工单列表" style="text;html=1;points=[];align=left;verticalAlign=top;spacingTop=-4;fontSize=14;fontFamily=Verdana" vertex="1" parent="1">
+        <mxCell id="IsQN9QvUP5Gz4JQWrJj--13" value="待完成工单列表" style="text;html=1;points=[];align=left;verticalAlign=top;spacingTop=-4;fontSize=14;fontFamily=Verdana" parent="1" vertex="1">
           <mxGeometry x="590" y="435" width="170" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="IsQN9QvUP5Gz4JQWrJj--14" value="" style="whiteSpace=wrap;html=1;rounded=0;shadow=0;labelBackgroundColor=none;strokeWidth=1;fillColor=none;fontFamily=Verdana;fontSize=12;align=center;comic=1;" vertex="1" parent="1">
+        <mxCell id="IsQN9QvUP5Gz4JQWrJj--14" value="" style="whiteSpace=wrap;html=1;rounded=0;shadow=0;labelBackgroundColor=none;strokeWidth=1;fillColor=none;fontFamily=Verdana;fontSize=12;align=center;comic=1;" parent="1" vertex="1">
           <mxGeometry x="582.5" y="420" width="235" height="190" as="geometry" />
         </mxCell>
-        <mxCell id="IsQN9QvUP5Gz4JQWrJj--15" value="" style="whiteSpace=wrap;html=1;rounded=0;shadow=0;labelBackgroundColor=none;strokeWidth=1;fillColor=none;fontFamily=Verdana;fontSize=12;align=center;comic=1;" vertex="1" parent="1">
+        <mxCell id="IsQN9QvUP5Gz4JQWrJj--15" value="" style="whiteSpace=wrap;html=1;rounded=0;shadow=0;labelBackgroundColor=none;strokeWidth=1;fillColor=none;fontFamily=Verdana;fontSize=12;align=center;comic=1;" parent="1" vertex="1">
           <mxGeometry x="580" y="210" width="240" height="190" as="geometry" />
         </mxCell>
-        <mxCell id="IsQN9QvUP5Gz4JQWrJj--16" value="当前或下一个待办工单" style="text;html=1;points=[];align=left;verticalAlign=top;spacingTop=-4;fontSize=14;fontFamily=Verdana" vertex="1" parent="1">
+        <mxCell id="IsQN9QvUP5Gz4JQWrJj--16" value="当前或下一个待办工单" style="text;html=1;points=[];align=left;verticalAlign=top;spacingTop=-4;fontSize=14;fontFamily=Verdana" parent="1" vertex="1">
           <mxGeometry x="590" y="155" width="170" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="IsQN9QvUP5Gz4JQWrJj--17" value="待接单任务列表" style="text;html=1;points=[];align=left;verticalAlign=top;spacingTop=-4;fontSize=14;fontFamily=Verdana" vertex="1" parent="1">
+        <mxCell id="IsQN9QvUP5Gz4JQWrJj--17" value="待接单任务列表" style="text;html=1;points=[];align=left;verticalAlign=top;spacingTop=-4;fontSize=14;fontFamily=Verdana" parent="1" vertex="1">
           <mxGeometry x="590" y="230" width="170" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="IsQN9QvUP5Gz4JQWrJj--18" value="2" style="text;html=1;points=[];align=left;verticalAlign=top;spacingTop=-4;fontSize=14;fontFamily=Verdana" vertex="1" parent="1">
+        <mxCell id="IsQN9QvUP5Gz4JQWrJj--18" value="2" style="text;html=1;points=[];align=left;verticalAlign=top;spacingTop=-4;fontSize=14;fontFamily=Verdana" parent="1" vertex="1">
           <mxGeometry x="810" y="150" width="20" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="IsQN9QvUP5Gz4JQWrJj--19" value="工单任务" style="text;html=1;points=[];align=left;verticalAlign=top;spacingTop=-4;fontSize=14;fontFamily=Verdana" vertex="1" parent="1">
+        <mxCell id="IsQN9QvUP5Gz4JQWrJj--19" value="工单任务" style="text;html=1;points=[];align=left;verticalAlign=top;spacingTop=-4;fontSize=14;fontFamily=Verdana" parent="1" vertex="1">
           <mxGeometry x="570" y="60" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="IsQN9QvUP5Gz4JQWrJj--20" value="������" style="text;fontSize=30;textOpacity=40;" vertex="1" parent="1">
-          <mxGeometry x="800" y="140" width="40" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="IsQN9QvUP5Gz4JQWrJj--21" value="待处理工单" style="text;html=1;points=[];align=left;verticalAlign=top;spacingTop=-4;fontSize=14;fontFamily=Verdana" vertex="1" parent="1">
+        <mxCell id="IsQN9QvUP5Gz4JQWrJj--21" value="待处理工单" style="text;html=1;points=[];align=left;verticalAlign=top;spacingTop=-4;fontSize=14;fontFamily=Verdana" parent="1" vertex="1">
           <mxGeometry x="430" y="145" width="80" height="25" as="geometry" />
         </mxCell>
-        <mxCell id="IsQN9QvUP5Gz4JQWrJj--22" value="待清洁房间" style="text;html=1;points=[];align=left;verticalAlign=top;spacingTop=-4;fontSize=14;fontFamily=Verdana" vertex="1" parent="1">
+        <mxCell id="IsQN9QvUP5Gz4JQWrJj--22" value="待清洁房间" style="text;html=1;points=[];align=left;verticalAlign=top;spacingTop=-4;fontSize=14;fontFamily=Verdana" parent="1" vertex="1">
           <mxGeometry x="860" y="155" width="90" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="IsQN9QvUP5Gz4JQWrJj--23" value="" style="whiteSpace=wrap;html=1;rounded=0;shadow=0;labelBackgroundColor=none;strokeWidth=1;fillColor=none;fontFamily=Verdana;fontSize=12;align=center;comic=1;" vertex="1" parent="1">
+        <mxCell id="IsQN9QvUP5Gz4JQWrJj--23" value="" style="whiteSpace=wrap;html=1;rounded=0;shadow=0;labelBackgroundColor=none;strokeWidth=1;fillColor=none;fontFamily=Verdana;fontSize=12;align=center;comic=1;" parent="1" vertex="1">
           <mxGeometry x="160" y="60" width="240" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="IsQN9QvUP5Gz4JQWrJj--24" value="清洁进度" style="text;html=1;points=[];align=left;verticalAlign=top;spacingTop=-4;fontSize=14;fontFamily=Verdana" vertex="1" parent="1">
+        <mxCell id="IsQN9QvUP5Gz4JQWrJj--24" value="清洁进度" style="text;html=1;points=[];align=left;verticalAlign=top;spacingTop=-4;fontSize=14;fontFamily=Verdana" parent="1" vertex="1">
           <mxGeometry x="220" y="70" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="IsQN9QvUP5Gz4JQWrJj--25" value="" style="whiteSpace=wrap;html=1;rounded=0;shadow=0;labelBackgroundColor=none;strokeWidth=1;fillColor=none;fontFamily=Verdana;fontSize=12;align=center;comic=1;" vertex="1" parent="1">
+        <mxCell id="IsQN9QvUP5Gz4JQWrJj--25" value="" style="whiteSpace=wrap;html=1;rounded=0;shadow=0;labelBackgroundColor=none;strokeWidth=1;fillColor=none;fontFamily=Verdana;fontSize=12;align=center;comic=1;" parent="1" vertex="1">
           <mxGeometry x="167.5" y="620" width="235" height="190" as="geometry" />
         </mxCell>
-        <mxCell id="IsQN9QvUP5Gz4JQWrJj--26" value="已完成清洁房间列表" style="text;html=1;points=[];align=left;verticalAlign=top;spacingTop=-4;fontSize=14;fontFamily=Verdana" vertex="1" parent="1">
+        <mxCell id="IsQN9QvUP5Gz4JQWrJj--26" value="已完成清洁房间列表" style="text;html=1;points=[];align=left;verticalAlign=top;spacingTop=-4;fontSize=14;fontFamily=Verdana" parent="1" vertex="1">
           <mxGeometry x="185" y="640" width="125" height="20" as="geometry" />
         </mxCell>
       </root>
