@@ -65,10 +65,10 @@
           <mxGeometry x="570" y="60" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="IsQN9QvUP5Gz4JQWrJj--21" value="待处理工单" style="text;html=1;points=[];align=left;verticalAlign=top;spacingTop=-4;fontSize=14;fontFamily=Verdana" parent="1" vertex="1">
-          <mxGeometry x="430" y="145" width="80" height="25" as="geometry" />
+          <mxGeometry x="402.5" y="140" width="80" height="25" as="geometry" />
         </mxCell>
         <mxCell id="IsQN9QvUP5Gz4JQWrJj--22" value="待清洁房间" style="text;html=1;points=[];align=left;verticalAlign=top;spacingTop=-4;fontSize=14;fontFamily=Verdana" parent="1" vertex="1">
-          <mxGeometry x="860" y="155" width="90" height="20" as="geometry" />
+          <mxGeometry x="820" y="150" width="90" height="20" as="geometry" />
         </mxCell>
         <mxCell id="IsQN9QvUP5Gz4JQWrJj--23" value="" style="whiteSpace=wrap;html=1;rounded=0;shadow=0;labelBackgroundColor=none;strokeWidth=1;fillColor=none;fontFamily=Verdana;fontSize=12;align=center;comic=1;" parent="1" vertex="1">
           <mxGeometry x="160" y="60" width="240" height="50" as="geometry" />
