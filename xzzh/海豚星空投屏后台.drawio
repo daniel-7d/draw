@@ -20,7 +20,7 @@
           <mxGeometry x="250" y="90" width="396" height="240" as="geometry" />
         </mxCell>
         <mxCell id="Mu4Yu6SJkgnIUBTmuAtY-7" value="授权列表" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="380" y="40" width="60" height="30" as="geometry" />
+          <mxGeometry x="340" y="20" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Mu4Yu6SJkgnIUBTmuAtY-8" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="250" y="90" width="396" height="30" as="geometry" />
@@ -38,7 +38,7 @@
           <mxGeometry x="430" y="90" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Mu4Yu6SJkgnIUBTmuAtY-13" value="&lt;pre style=&quot;font-family: 宋体, monospace; font-size: 9.8pt; background-color: rgb(255, 255, 255); color: rgb(8, 8, 8);&quot;&gt;&lt;pre style=&quot;font-family: 宋体, monospace; font-size: 9.8pt;&quot;&gt;&lt;font color=&quot;#067d17&quot;&gt;&lt;span style=&quot;background-color: rgb(247, 250, 255);&quot;&gt;状态&lt;/span&gt;&lt;/font&gt;&lt;/pre&gt;&lt;/pre&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="480" y="90" width="60" height="30" as="geometry" />
+          <mxGeometry x="470" y="90" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Mu4Yu6SJkgnIUBTmuAtY-14" value="&lt;pre style=&quot;font-family: 宋体, monospace; font-size: 9.8pt; background-color: rgb(255, 255, 255); color: rgb(8, 8, 8);&quot;&gt;&lt;pre style=&quot;font-family: 宋体, monospace; font-size: 9.8pt;&quot;&gt;&lt;font color=&quot;#067d17&quot;&gt;&lt;span style=&quot;background-color: rgb(247, 250, 255);&quot;&gt;操作&lt;/span&gt;&lt;/font&gt;&lt;/pre&gt;&lt;/pre&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="586" y="90" width="60" height="30" as="geometry" />
@@ -49,11 +49,8 @@
         <mxCell id="Mu4Yu6SJkgnIUBTmuAtY-16" value="同步绑定的电视" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="470" y="60" width="106" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Mu4Yu6SJkgnIUBTmuAtY-18" value="授权" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="586" y="120" width="60" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="Mu4Yu6SJkgnIUBTmuAtY-19" value="编辑" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="540" y="120" width="60" height="30" as="geometry" />
+          <mxGeometry x="586" y="120" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Mu4Yu6SJkgnIUBTmuAtY-20" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="250" y="430" width="396" height="240" as="geometry" />
@@ -90,6 +87,12 @@
         </mxCell>
         <mxCell id="Mu4Yu6SJkgnIUBTmuAtY-38" value="状态" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="530" y="430" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Mu4Yu6SJkgnIUBTmuAtY-40" value="批量授权" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="400" y="60" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Mu4Yu6SJkgnIUBTmuAtY-41" value="&lt;pre style=&quot;font-family: 宋体, monospace; font-size: 9.8pt; background-color: rgb(255, 255, 255); color: rgb(8, 8, 8);&quot;&gt;&lt;pre style=&quot;font-family: 宋体, monospace; font-size: 9.8pt;&quot;&gt;&lt;font color=&quot;#067d17&quot;&gt;&lt;span style=&quot;background-color: rgb(247, 250, 255);&quot;&gt;更新时间&lt;/span&gt;&lt;/font&gt;&lt;/pre&gt;&lt;/pre&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="510" y="90" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
