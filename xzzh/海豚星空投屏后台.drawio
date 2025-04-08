@@ -50,7 +50,7 @@
           <mxGeometry x="470" y="60" width="106" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Mu4Yu6SJkgnIUBTmuAtY-19" value="编辑" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="586" y="120" width="60" height="30" as="geometry" />
+          <mxGeometry x="550" y="120" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Mu4Yu6SJkgnIUBTmuAtY-20" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="250" y="430" width="396" height="240" as="geometry" />
@@ -93,6 +93,9 @@
         </mxCell>
         <mxCell id="Mu4Yu6SJkgnIUBTmuAtY-41" value="&lt;pre style=&quot;font-family: 宋体, monospace; font-size: 9.8pt; background-color: rgb(255, 255, 255); color: rgb(8, 8, 8);&quot;&gt;&lt;pre style=&quot;font-family: 宋体, monospace; font-size: 9.8pt;&quot;&gt;&lt;font color=&quot;#067d17&quot;&gt;&lt;span style=&quot;background-color: rgb(247, 250, 255);&quot;&gt;更新时间&lt;/span&gt;&lt;/font&gt;&lt;/pre&gt;&lt;/pre&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="510" y="90" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Mu4Yu6SJkgnIUBTmuAtY-42" value="授权" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="590" y="120" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
