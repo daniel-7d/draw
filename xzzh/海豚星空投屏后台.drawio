@@ -55,6 +55,42 @@
         <mxCell id="Mu4Yu6SJkgnIUBTmuAtY-19" value="编辑" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="540" y="120" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="Mu4Yu6SJkgnIUBTmuAtY-20" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="430" width="396" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="Mu4Yu6SJkgnIUBTmuAtY-21" value="投屏配置" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="380" y="380" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Mu4Yu6SJkgnIUBTmuAtY-22" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="430" width="396" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Mu4Yu6SJkgnIUBTmuAtY-23" value="配置名称" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="250" y="430" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Mu4Yu6SJkgnIUBTmuAtY-28" value="&lt;pre style=&quot;font-family: 宋体, monospace; font-size: 9.8pt; background-color: rgb(255, 255, 255); color: rgb(8, 8, 8);&quot;&gt;&lt;pre style=&quot;font-family: 宋体, monospace; font-size: 9.8pt;&quot;&gt;&lt;font color=&quot;#067d17&quot;&gt;&lt;span style=&quot;background-color: rgb(247, 250, 255);&quot;&gt;操作&lt;/span&gt;&lt;/font&gt;&lt;/pre&gt;&lt;/pre&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="586" y="430" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Mu4Yu6SJkgnIUBTmuAtY-32" value="编辑" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="576" y="460" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Mu4Yu6SJkgnIUBTmuAtY-33" value="新增" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="570" y="400" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Mu4Yu6SJkgnIUBTmuAtY-34" value="版本号" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="310" y="430" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Mu4Yu6SJkgnIUBTmuAtY-35" value="房间" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="354" y="430" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Mu4Yu6SJkgnIUBTmuAtY-36" value="模板编号" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="410" y="430" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Mu4Yu6SJkgnIUBTmuAtY-37" value="模板code" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="470" y="430" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Mu4Yu6SJkgnIUBTmuAtY-38" value="状态" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="530" y="430" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
